@@ -1,0 +1,82 @@
+[
+  {
+    "titulo": "Series noticia 1",
+    "descripcion": "Resumen de la noticia 1 sobre series.",
+    "url": "https://noticias.com/series/noticia-1",
+    "imagen": "https://via.placeholder.com/300x200?text=series+1",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "series"
+  },
+  {
+    "titulo": "Series noticia 2",
+    "descripcion": "Resumen de la noticia 2 sobre series.",
+    "url": "https://noticias.com/series/noticia-2",
+    "imagen": "https://via.placeholder.com/300x200?text=series+2",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "series"
+  },
+  {
+    "titulo": "Series noticia 3",
+    "descripcion": "Resumen de la noticia 3 sobre series.",
+    "url": "https://noticias.com/series/noticia-3",
+    "imagen": "https://via.placeholder.com/300x200?text=series+3",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "series"
+  },
+  {
+    "titulo": "Series noticia 4",
+    "descripcion": "Resumen de la noticia 4 sobre series.",
+    "url": "https://noticias.com/series/noticia-4",
+    "imagen": "https://via.placeholder.com/300x200?text=series+4",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "series"
+  },
+  {
+    "titulo": "Series noticia 5",
+    "descripcion": "Resumen de la noticia 5 sobre series.",
+    "url": "https://noticias.com/series/noticia-5",
+    "imagen": "https://via.placeholder.com/300x200?text=series+5",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "series"
+  },
+  {
+    "titulo": "Series noticia 6",
+    "descripcion": "Resumen de la noticia 6 sobre series.",
+    "url": "https://noticias.com/series/noticia-6",
+    "imagen": "https://via.placeholder.com/300x200?text=series+6",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "series"
+  },
+  {
+    "titulo": "Series noticia 7",
+    "descripcion": "Resumen de la noticia 7 sobre series.",
+    "url": "https://noticias.com/series/noticia-7",
+    "imagen": "https://via.placeholder.com/300x200?text=series+7",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "series"
+  },
+  {
+    "titulo": "Series noticia 8",
+    "descripcion": "Resumen de la noticia 8 sobre series.",
+    "url": "https://noticias.com/series/noticia-8",
+    "imagen": "https://via.placeholder.com/300x200?text=series+8",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "series"
+  },
+  {
+    "titulo": "Series noticia 9",
+    "descripcion": "Resumen de la noticia 9 sobre series.",
+    "url": "https://noticias.com/series/noticia-9",
+    "imagen": "https://via.placeholder.com/300x200?text=series+9",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "series"
+  },
+  {
+    "titulo": "Series noticia 10",
+    "descripcion": "Resumen de la noticia 10 sobre series.",
+    "url": "https://noticias.com/series/noticia-10",
+    "imagen": "https://via.placeholder.com/300x200?text=series+10",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "series"
+  }
+]

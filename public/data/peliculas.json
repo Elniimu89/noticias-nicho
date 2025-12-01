@@ -1,0 +1,82 @@
+[
+  {
+    "titulo": "Peliculas noticia 1",
+    "descripcion": "Resumen de la noticia 1 sobre peliculas.",
+    "url": "https://noticias.com/peliculas/noticia-1",
+    "imagen": "https://via.placeholder.com/300x200?text=peliculas+1",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "peliculas"
+  },
+  {
+    "titulo": "Peliculas noticia 2",
+    "descripcion": "Resumen de la noticia 2 sobre peliculas.",
+    "url": "https://noticias.com/peliculas/noticia-2",
+    "imagen": "https://via.placeholder.com/300x200?text=peliculas+2",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "peliculas"
+  },
+  {
+    "titulo": "Peliculas noticia 3",
+    "descripcion": "Resumen de la noticia 3 sobre peliculas.",
+    "url": "https://noticias.com/peliculas/noticia-3",
+    "imagen": "https://via.placeholder.com/300x200?text=peliculas+3",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "peliculas"
+  },
+  {
+    "titulo": "Peliculas noticia 4",
+    "descripcion": "Resumen de la noticia 4 sobre peliculas.",
+    "url": "https://noticias.com/peliculas/noticia-4",
+    "imagen": "https://via.placeholder.com/300x200?text=peliculas+4",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "peliculas"
+  },
+  {
+    "titulo": "Peliculas noticia 5",
+    "descripcion": "Resumen de la noticia 5 sobre peliculas.",
+    "url": "https://noticias.com/peliculas/noticia-5",
+    "imagen": "https://via.placeholder.com/300x200?text=peliculas+5",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "peliculas"
+  },
+  {
+    "titulo": "Peliculas noticia 6",
+    "descripcion": "Resumen de la noticia 6 sobre peliculas.",
+    "url": "https://noticias.com/peliculas/noticia-6",
+    "imagen": "https://via.placeholder.com/300x200?text=peliculas+6",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "peliculas"
+  },
+  {
+    "titulo": "Peliculas noticia 7",
+    "descripcion": "Resumen de la noticia 7 sobre peliculas.",
+    "url": "https://noticias.com/peliculas/noticia-7",
+    "imagen": "https://via.placeholder.com/300x200?text=peliculas+7",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "peliculas"
+  },
+  {
+    "titulo": "Peliculas noticia 8",
+    "descripcion": "Resumen de la noticia 8 sobre peliculas.",
+    "url": "https://noticias.com/peliculas/noticia-8",
+    "imagen": "https://via.placeholder.com/300x200?text=peliculas+8",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "peliculas"
+  },
+  {
+    "titulo": "Peliculas noticia 9",
+    "descripcion": "Resumen de la noticia 9 sobre peliculas.",
+    "url": "https://noticias.com/peliculas/noticia-9",
+    "imagen": "https://via.placeholder.com/300x200?text=peliculas+9",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "peliculas"
+  },
+  {
+    "titulo": "Peliculas noticia 10",
+    "descripcion": "Resumen de la noticia 10 sobre peliculas.",
+    "url": "https://noticias.com/peliculas/noticia-10",
+    "imagen": "https://via.placeholder.com/300x200?text=peliculas+10",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "peliculas"
+  }
+]

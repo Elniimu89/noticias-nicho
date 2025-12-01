@@ -1,0 +1,82 @@
+[
+  {
+    "titulo": "Educacion noticia 1",
+    "descripcion": "Resumen de la noticia 1 sobre educacion.",
+    "url": "https://noticias.com/educacion/noticia-1",
+    "imagen": "https://via.placeholder.com/300x200?text=educacion+1",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "educacion"
+  },
+  {
+    "titulo": "Educacion noticia 2",
+    "descripcion": "Resumen de la noticia 2 sobre educacion.",
+    "url": "https://noticias.com/educacion/noticia-2",
+    "imagen": "https://via.placeholder.com/300x200?text=educacion+2",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "educacion"
+  },
+  {
+    "titulo": "Educacion noticia 3",
+    "descripcion": "Resumen de la noticia 3 sobre educacion.",
+    "url": "https://noticias.com/educacion/noticia-3",
+    "imagen": "https://via.placeholder.com/300x200?text=educacion+3",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "educacion"
+  },
+  {
+    "titulo": "Educacion noticia 4",
+    "descripcion": "Resumen de la noticia 4 sobre educacion.",
+    "url": "https://noticias.com/educacion/noticia-4",
+    "imagen": "https://via.placeholder.com/300x200?text=educacion+4",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "educacion"
+  },
+  {
+    "titulo": "Educacion noticia 5",
+    "descripcion": "Resumen de la noticia 5 sobre educacion.",
+    "url": "https://noticias.com/educacion/noticia-5",
+    "imagen": "https://via.placeholder.com/300x200?text=educacion+5",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "educacion"
+  },
+  {
+    "titulo": "Educacion noticia 6",
+    "descripcion": "Resumen de la noticia 6 sobre educacion.",
+    "url": "https://noticias.com/educacion/noticia-6",
+    "imagen": "https://via.placeholder.com/300x200?text=educacion+6",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "educacion"
+  },
+  {
+    "titulo": "Educacion noticia 7",
+    "descripcion": "Resumen de la noticia 7 sobre educacion.",
+    "url": "https://noticias.com/educacion/noticia-7",
+    "imagen": "https://via.placeholder.com/300x200?text=educacion+7",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "educacion"
+  },
+  {
+    "titulo": "Educacion noticia 8",
+    "descripcion": "Resumen de la noticia 8 sobre educacion.",
+    "url": "https://noticias.com/educacion/noticia-8",
+    "imagen": "https://via.placeholder.com/300x200?text=educacion+8",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "educacion"
+  },
+  {
+    "titulo": "Educacion noticia 9",
+    "descripcion": "Resumen de la noticia 9 sobre educacion.",
+    "url": "https://noticias.com/educacion/noticia-9",
+    "imagen": "https://via.placeholder.com/300x200?text=educacion+9",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "educacion"
+  },
+  {
+    "titulo": "Educacion noticia 10",
+    "descripcion": "Resumen de la noticia 10 sobre educacion.",
+    "url": "https://noticias.com/educacion/noticia-10",
+    "imagen": "https://via.placeholder.com/300x200?text=educacion+10",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "educacion"
+  }
+]

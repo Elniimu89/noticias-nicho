@@ -1,0 +1,82 @@
+[
+  {
+    "titulo": "Ciencia noticia 1",
+    "descripcion": "Resumen de la noticia 1 sobre ciencia.",
+    "url": "https://noticias.com/ciencia/noticia-1",
+    "imagen": "https://via.placeholder.com/300x200?text=ciencia+1",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "ciencia"
+  },
+  {
+    "titulo": "Ciencia noticia 2",
+    "descripcion": "Resumen de la noticia 2 sobre ciencia.",
+    "url": "https://noticias.com/ciencia/noticia-2",
+    "imagen": "https://via.placeholder.com/300x200?text=ciencia+2",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "ciencia"
+  },
+  {
+    "titulo": "Ciencia noticia 3",
+    "descripcion": "Resumen de la noticia 3 sobre ciencia.",
+    "url": "https://noticias.com/ciencia/noticia-3",
+    "imagen": "https://via.placeholder.com/300x200?text=ciencia+3",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "ciencia"
+  },
+  {
+    "titulo": "Ciencia noticia 4",
+    "descripcion": "Resumen de la noticia 4 sobre ciencia.",
+    "url": "https://noticias.com/ciencia/noticia-4",
+    "imagen": "https://via.placeholder.com/300x200?text=ciencia+4",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "ciencia"
+  },
+  {
+    "titulo": "Ciencia noticia 5",
+    "descripcion": "Resumen de la noticia 5 sobre ciencia.",
+    "url": "https://noticias.com/ciencia/noticia-5",
+    "imagen": "https://via.placeholder.com/300x200?text=ciencia+5",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "ciencia"
+  },
+  {
+    "titulo": "Ciencia noticia 6",
+    "descripcion": "Resumen de la noticia 6 sobre ciencia.",
+    "url": "https://noticias.com/ciencia/noticia-6",
+    "imagen": "https://via.placeholder.com/300x200?text=ciencia+6",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "ciencia"
+  },
+  {
+    "titulo": "Ciencia noticia 7",
+    "descripcion": "Resumen de la noticia 7 sobre ciencia.",
+    "url": "https://noticias.com/ciencia/noticia-7",
+    "imagen": "https://via.placeholder.com/300x200?text=ciencia+7",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "ciencia"
+  },
+  {
+    "titulo": "Ciencia noticia 8",
+    "descripcion": "Resumen de la noticia 8 sobre ciencia.",
+    "url": "https://noticias.com/ciencia/noticia-8",
+    "imagen": "https://via.placeholder.com/300x200?text=ciencia+8",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "ciencia"
+  },
+  {
+    "titulo": "Ciencia noticia 9",
+    "descripcion": "Resumen de la noticia 9 sobre ciencia.",
+    "url": "https://noticias.com/ciencia/noticia-9",
+    "imagen": "https://via.placeholder.com/300x200?text=ciencia+9",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "ciencia"
+  },
+  {
+    "titulo": "Ciencia noticia 10",
+    "descripcion": "Resumen de la noticia 10 sobre ciencia.",
+    "url": "https://noticias.com/ciencia/noticia-10",
+    "imagen": "https://via.placeholder.com/300x200?text=ciencia+10",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "ciencia"
+  }
+]

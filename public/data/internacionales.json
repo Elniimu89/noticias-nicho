@@ -1,0 +1,82 @@
+[
+  {
+    "titulo": "Internacionales noticia 1",
+    "descripcion": "Resumen de la noticia 1 sobre internacionales.",
+    "url": "https://noticias.com/internacionales/noticia-1",
+    "imagen": "https://via.placeholder.com/300x200?text=internacionales+1",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "internacionales"
+  },
+  {
+    "titulo": "Internacionales noticia 2",
+    "descripcion": "Resumen de la noticia 2 sobre internacionales.",
+    "url": "https://noticias.com/internacionales/noticia-2",
+    "imagen": "https://via.placeholder.com/300x200?text=internacionales+2",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "internacionales"
+  },
+  {
+    "titulo": "Internacionales noticia 3",
+    "descripcion": "Resumen de la noticia 3 sobre internacionales.",
+    "url": "https://noticias.com/internacionales/noticia-3",
+    "imagen": "https://via.placeholder.com/300x200?text=internacionales+3",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "internacionales"
+  },
+  {
+    "titulo": "Internacionales noticia 4",
+    "descripcion": "Resumen de la noticia 4 sobre internacionales.",
+    "url": "https://noticias.com/internacionales/noticia-4",
+    "imagen": "https://via.placeholder.com/300x200?text=internacionales+4",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "internacionales"
+  },
+  {
+    "titulo": "Internacionales noticia 5",
+    "descripcion": "Resumen de la noticia 5 sobre internacionales.",
+    "url": "https://noticias.com/internacionales/noticia-5",
+    "imagen": "https://via.placeholder.com/300x200?text=internacionales+5",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "internacionales"
+  },
+  {
+    "titulo": "Internacionales noticia 6",
+    "descripcion": "Resumen de la noticia 6 sobre internacionales.",
+    "url": "https://noticias.com/internacionales/noticia-6",
+    "imagen": "https://via.placeholder.com/300x200?text=internacionales+6",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "internacionales"
+  },
+  {
+    "titulo": "Internacionales noticia 7",
+    "descripcion": "Resumen de la noticia 7 sobre internacionales.",
+    "url": "https://noticias.com/internacionales/noticia-7",
+    "imagen": "https://via.placeholder.com/300x200?text=internacionales+7",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "internacionales"
+  },
+  {
+    "titulo": "Internacionales noticia 8",
+    "descripcion": "Resumen de la noticia 8 sobre internacionales.",
+    "url": "https://noticias.com/internacionales/noticia-8",
+    "imagen": "https://via.placeholder.com/300x200?text=internacionales+8",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "internacionales"
+  },
+  {
+    "titulo": "Internacionales noticia 9",
+    "descripcion": "Resumen de la noticia 9 sobre internacionales.",
+    "url": "https://noticias.com/internacionales/noticia-9",
+    "imagen": "https://via.placeholder.com/300x200?text=internacionales+9",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "internacionales"
+  },
+  {
+    "titulo": "Internacionales noticia 10",
+    "descripcion": "Resumen de la noticia 10 sobre internacionales.",
+    "url": "https://noticias.com/internacionales/noticia-10",
+    "imagen": "https://via.placeholder.com/300x200?text=internacionales+10",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "internacionales"
+  }
+]

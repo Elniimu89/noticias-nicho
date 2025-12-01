@@ -1,0 +1,82 @@
+[
+  {
+    "titulo": "Salud noticia 1",
+    "descripcion": "Resumen de la noticia 1 sobre salud.",
+    "url": "https://noticias.com/salud/noticia-1",
+    "imagen": "https://via.placeholder.com/300x200?text=salud+1",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "salud"
+  },
+  {
+    "titulo": "Salud noticia 2",
+    "descripcion": "Resumen de la noticia 2 sobre salud.",
+    "url": "https://noticias.com/salud/noticia-2",
+    "imagen": "https://via.placeholder.com/300x200?text=salud+2",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "salud"
+  },
+  {
+    "titulo": "Salud noticia 3",
+    "descripcion": "Resumen de la noticia 3 sobre salud.",
+    "url": "https://noticias.com/salud/noticia-3",
+    "imagen": "https://via.placeholder.com/300x200?text=salud+3",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "salud"
+  },
+  {
+    "titulo": "Salud noticia 4",
+    "descripcion": "Resumen de la noticia 4 sobre salud.",
+    "url": "https://noticias.com/salud/noticia-4",
+    "imagen": "https://via.placeholder.com/300x200?text=salud+4",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "salud"
+  },
+  {
+    "titulo": "Salud noticia 5",
+    "descripcion": "Resumen de la noticia 5 sobre salud.",
+    "url": "https://noticias.com/salud/noticia-5",
+    "imagen": "https://via.placeholder.com/300x200?text=salud+5",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "salud"
+  },
+  {
+    "titulo": "Salud noticia 6",
+    "descripcion": "Resumen de la noticia 6 sobre salud.",
+    "url": "https://noticias.com/salud/noticia-6",
+    "imagen": "https://via.placeholder.com/300x200?text=salud+6",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "salud"
+  },
+  {
+    "titulo": "Salud noticia 7",
+    "descripcion": "Resumen de la noticia 7 sobre salud.",
+    "url": "https://noticias.com/salud/noticia-7",
+    "imagen": "https://via.placeholder.com/300x200?text=salud+7",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "salud"
+  },
+  {
+    "titulo": "Salud noticia 8",
+    "descripcion": "Resumen de la noticia 8 sobre salud.",
+    "url": "https://noticias.com/salud/noticia-8",
+    "imagen": "https://via.placeholder.com/300x200?text=salud+8",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "salud"
+  },
+  {
+    "titulo": "Salud noticia 9",
+    "descripcion": "Resumen de la noticia 9 sobre salud.",
+    "url": "https://noticias.com/salud/noticia-9",
+    "imagen": "https://via.placeholder.com/300x200?text=salud+9",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "salud"
+  },
+  {
+    "titulo": "Salud noticia 10",
+    "descripcion": "Resumen de la noticia 10 sobre salud.",
+    "url": "https://noticias.com/salud/noticia-10",
+    "imagen": "https://via.placeholder.com/300x200?text=salud+10",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "salud"
+  }
+]

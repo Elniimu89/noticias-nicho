@@ -1,0 +1,82 @@
+[
+  {
+    "titulo": "Politica noticia 1",
+    "descripcion": "Resumen de la noticia 1 sobre politica.",
+    "url": "https://noticias.com/politica/noticia-1",
+    "imagen": "https://via.placeholder.com/300x200?text=politica+1",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "politica"
+  },
+  {
+    "titulo": "Politica noticia 2",
+    "descripcion": "Resumen de la noticia 2 sobre politica.",
+    "url": "https://noticias.com/politica/noticia-2",
+    "imagen": "https://via.placeholder.com/300x200?text=politica+2",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "politica"
+  },
+  {
+    "titulo": "Politica noticia 3",
+    "descripcion": "Resumen de la noticia 3 sobre politica.",
+    "url": "https://noticias.com/politica/noticia-3",
+    "imagen": "https://via.placeholder.com/300x200?text=politica+3",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "politica"
+  },
+  {
+    "titulo": "Politica noticia 4",
+    "descripcion": "Resumen de la noticia 4 sobre politica.",
+    "url": "https://noticias.com/politica/noticia-4",
+    "imagen": "https://via.placeholder.com/300x200?text=politica+4",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "politica"
+  },
+  {
+    "titulo": "Politica noticia 5",
+    "descripcion": "Resumen de la noticia 5 sobre politica.",
+    "url": "https://noticias.com/politica/noticia-5",
+    "imagen": "https://via.placeholder.com/300x200?text=politica+5",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "politica"
+  },
+  {
+    "titulo": "Politica noticia 6",
+    "descripcion": "Resumen de la noticia 6 sobre politica.",
+    "url": "https://noticias.com/politica/noticia-6",
+    "imagen": "https://via.placeholder.com/300x200?text=politica+6",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "politica"
+  },
+  {
+    "titulo": "Politica noticia 7",
+    "descripcion": "Resumen de la noticia 7 sobre politica.",
+    "url": "https://noticias.com/politica/noticia-7",
+    "imagen": "https://via.placeholder.com/300x200?text=politica+7",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "politica"
+  },
+  {
+    "titulo": "Politica noticia 8",
+    "descripcion": "Resumen de la noticia 8 sobre politica.",
+    "url": "https://noticias.com/politica/noticia-8",
+    "imagen": "https://via.placeholder.com/300x200?text=politica+8",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "politica"
+  },
+  {
+    "titulo": "Politica noticia 9",
+    "descripcion": "Resumen de la noticia 9 sobre politica.",
+    "url": "https://noticias.com/politica/noticia-9",
+    "imagen": "https://via.placeholder.com/300x200?text=politica+9",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "politica"
+  },
+  {
+    "titulo": "Politica noticia 10",
+    "descripcion": "Resumen de la noticia 10 sobre politica.",
+    "url": "https://noticias.com/politica/noticia-10",
+    "imagen": "https://via.placeholder.com/300x200?text=politica+10",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "politica"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "titulo": "Policiales noticia 1",
+    "descripcion": "Resumen de la noticia 1 sobre policiales.",
+    "url": "https://noticias.com/policiales/noticia-1",
+    "imagen": "https://via.placeholder.com/300x200?text=policiales+1",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "policiales"
+  },
+  {
+    "titulo": "Policiales noticia 2",
+    "descripcion": "Resumen de la noticia 2 sobre policiales.",
+    "url": "https://noticias.com/policiales/noticia-2",
+    "imagen": "https://via.placeholder.com/300x200?text=policiales+2",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "policiales"
+  },
+  {
+    "titulo": "Policiales noticia 3",
+    "descripcion": "Resumen de la noticia 3 sobre policiales.",
+    "url": "https://noticias.com/policiales/noticia-3",
+    "imagen": "https://via.placeholder.com/300x200?text=policiales+3",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "policiales"
+  },
+  {
+    "titulo": "Policiales noticia 4",
+    "descripcion": "Resumen de la noticia 4 sobre policiales.",
+    "url": "https://noticias.com/policiales/noticia-4",
+    "imagen": "https://via.placeholder.com/300x200?text=policiales+4",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "policiales"
+  },
+  {
+    "titulo": "Policiales noticia 5",
+    "descripcion": "Resumen de la noticia 5 sobre policiales.",
+    "url": "https://noticias.com/policiales/noticia-5",
+    "imagen": "https://via.placeholder.com/300x200?text=policiales+5",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "policiales"
+  },
+  {
+    "titulo": "Policiales noticia 6",
+    "descripcion": "Resumen de la noticia 6 sobre policiales.",
+    "url": "https://noticias.com/policiales/noticia-6",
+    "imagen": "https://via.placeholder.com/300x200?text=policiales+6",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "policiales"
+  },
+  {
+    "titulo": "Policiales noticia 7",
+    "descripcion": "Resumen de la noticia 7 sobre policiales.",
+    "url": "https://noticias.com/policiales/noticia-7",
+    "imagen": "https://via.placeholder.com/300x200?text=policiales+7",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "policiales"
+  },
+  {
+    "titulo": "Policiales noticia 8",
+    "descripcion": "Resumen de la noticia 8 sobre policiales.",
+    "url": "https://noticias.com/policiales/noticia-8",
+    "imagen": "https://via.placeholder.com/300x200?text=policiales+8",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "policiales"
+  },
+  {
+    "titulo": "Policiales noticia 9",
+    "descripcion": "Resumen de la noticia 9 sobre policiales.",
+    "url": "https://noticias.com/policiales/noticia-9",
+    "imagen": "https://via.placeholder.com/300x200?text=policiales+9",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "policiales"
+  },
+  {
+    "titulo": "Policiales noticia 10",
+    "descripcion": "Resumen de la noticia 10 sobre policiales.",
+    "url": "https://noticias.com/policiales/noticia-10",
+    "imagen": "https://via.placeholder.com/300x200?text=policiales+10",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "policiales"
+  }
+]

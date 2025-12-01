@@ -1,0 +1,82 @@
+[
+  {
+    "titulo": "Espectaculos noticia 1",
+    "descripcion": "Resumen de la noticia 1 sobre espectaculos.",
+    "url": "https://noticias.com/espectaculos/noticia-1",
+    "imagen": "https://via.placeholder.com/300x200?text=espectaculos+1",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "espectaculos"
+  },
+  {
+    "titulo": "Espectaculos noticia 2",
+    "descripcion": "Resumen de la noticia 2 sobre espectaculos.",
+    "url": "https://noticias.com/espectaculos/noticia-2",
+    "imagen": "https://via.placeholder.com/300x200?text=espectaculos+2",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "espectaculos"
+  },
+  {
+    "titulo": "Espectaculos noticia 3",
+    "descripcion": "Resumen de la noticia 3 sobre espectaculos.",
+    "url": "https://noticias.com/espectaculos/noticia-3",
+    "imagen": "https://via.placeholder.com/300x200?text=espectaculos+3",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "espectaculos"
+  },
+  {
+    "titulo": "Espectaculos noticia 4",
+    "descripcion": "Resumen de la noticia 4 sobre espectaculos.",
+    "url": "https://noticias.com/espectaculos/noticia-4",
+    "imagen": "https://via.placeholder.com/300x200?text=espectaculos+4",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "espectaculos"
+  },
+  {
+    "titulo": "Espectaculos noticia 5",
+    "descripcion": "Resumen de la noticia 5 sobre espectaculos.",
+    "url": "https://noticias.com/espectaculos/noticia-5",
+    "imagen": "https://via.placeholder.com/300x200?text=espectaculos+5",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "espectaculos"
+  },
+  {
+    "titulo": "Espectaculos noticia 6",
+    "descripcion": "Resumen de la noticia 6 sobre espectaculos.",
+    "url": "https://noticias.com/espectaculos/noticia-6",
+    "imagen": "https://via.placeholder.com/300x200?text=espectaculos+6",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "espectaculos"
+  },
+  {
+    "titulo": "Espectaculos noticia 7",
+    "descripcion": "Resumen de la noticia 7 sobre espectaculos.",
+    "url": "https://noticias.com/espectaculos/noticia-7",
+    "imagen": "https://via.placeholder.com/300x200?text=espectaculos+7",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "espectaculos"
+  },
+  {
+    "titulo": "Espectaculos noticia 8",
+    "descripcion": "Resumen de la noticia 8 sobre espectaculos.",
+    "url": "https://noticias.com/espectaculos/noticia-8",
+    "imagen": "https://via.placeholder.com/300x200?text=espectaculos+8",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "espectaculos"
+  },
+  {
+    "titulo": "Espectaculos noticia 9",
+    "descripcion": "Resumen de la noticia 9 sobre espectaculos.",
+    "url": "https://noticias.com/espectaculos/noticia-9",
+    "imagen": "https://via.placeholder.com/300x200?text=espectaculos+9",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "espectaculos"
+  },
+  {
+    "titulo": "Espectaculos noticia 10",
+    "descripcion": "Resumen de la noticia 10 sobre espectaculos.",
+    "url": "https://noticias.com/espectaculos/noticia-10",
+    "imagen": "https://via.placeholder.com/300x200?text=espectaculos+10",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "espectaculos"
+  }
+]

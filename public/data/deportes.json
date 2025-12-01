@@ -1,0 +1,82 @@
+[
+  {
+    "titulo": "Deportes noticia 1",
+    "descripcion": "Resumen de la noticia 1 sobre deportes.",
+    "url": "https://noticias.com/deportes/noticia-1",
+    "imagen": "https://via.placeholder.com/300x200?text=deportes+1",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "deportes"
+  },
+  {
+    "titulo": "Deportes noticia 2",
+    "descripcion": "Resumen de la noticia 2 sobre deportes.",
+    "url": "https://noticias.com/deportes/noticia-2",
+    "imagen": "https://via.placeholder.com/300x200?text=deportes+2",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "deportes"
+  },
+  {
+    "titulo": "Deportes noticia 3",
+    "descripcion": "Resumen de la noticia 3 sobre deportes.",
+    "url": "https://noticias.com/deportes/noticia-3",
+    "imagen": "https://via.placeholder.com/300x200?text=deportes+3",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "deportes"
+  },
+  {
+    "titulo": "Deportes noticia 4",
+    "descripcion": "Resumen de la noticia 4 sobre deportes.",
+    "url": "https://noticias.com/deportes/noticia-4",
+    "imagen": "https://via.placeholder.com/300x200?text=deportes+4",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "deportes"
+  },
+  {
+    "titulo": "Deportes noticia 5",
+    "descripcion": "Resumen de la noticia 5 sobre deportes.",
+    "url": "https://noticias.com/deportes/noticia-5",
+    "imagen": "https://via.placeholder.com/300x200?text=deportes+5",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "deportes"
+  },
+  {
+    "titulo": "Deportes noticia 6",
+    "descripcion": "Resumen de la noticia 6 sobre deportes.",
+    "url": "https://noticias.com/deportes/noticia-6",
+    "imagen": "https://via.placeholder.com/300x200?text=deportes+6",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "deportes"
+  },
+  {
+    "titulo": "Deportes noticia 7",
+    "descripcion": "Resumen de la noticia 7 sobre deportes.",
+    "url": "https://noticias.com/deportes/noticia-7",
+    "imagen": "https://via.placeholder.com/300x200?text=deportes+7",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "deportes"
+  },
+  {
+    "titulo": "Deportes noticia 8",
+    "descripcion": "Resumen de la noticia 8 sobre deportes.",
+    "url": "https://noticias.com/deportes/noticia-8",
+    "imagen": "https://via.placeholder.com/300x200?text=deportes+8",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "deportes"
+  },
+  {
+    "titulo": "Deportes noticia 9",
+    "descripcion": "Resumen de la noticia 9 sobre deportes.",
+    "url": "https://noticias.com/deportes/noticia-9",
+    "imagen": "https://via.placeholder.com/300x200?text=deportes+9",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "deportes"
+  },
+  {
+    "titulo": "Deportes noticia 10",
+    "descripcion": "Resumen de la noticia 10 sobre deportes.",
+    "url": "https://noticias.com/deportes/noticia-10",
+    "imagen": "https://via.placeholder.com/300x200?text=deportes+10",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "deportes"
+  }
+]

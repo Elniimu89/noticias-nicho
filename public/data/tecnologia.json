@@ -1,0 +1,82 @@
+[
+  {
+    "titulo": "Tecnologia noticia 1",
+    "descripcion": "Resumen de la noticia 1 sobre tecnologia.",
+    "url": "https://noticias.com/tecnologia/noticia-1",
+    "imagen": "https://via.placeholder.com/300x200?text=tecnologia+1",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "tecnologia"
+  },
+  {
+    "titulo": "Tecnologia noticia 2",
+    "descripcion": "Resumen de la noticia 2 sobre tecnologia.",
+    "url": "https://noticias.com/tecnologia/noticia-2",
+    "imagen": "https://via.placeholder.com/300x200?text=tecnologia+2",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "tecnologia"
+  },
+  {
+    "titulo": "Tecnologia noticia 3",
+    "descripcion": "Resumen de la noticia 3 sobre tecnologia.",
+    "url": "https://noticias.com/tecnologia/noticia-3",
+    "imagen": "https://via.placeholder.com/300x200?text=tecnologia+3",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "tecnologia"
+  },
+  {
+    "titulo": "Tecnologia noticia 4",
+    "descripcion": "Resumen de la noticia 4 sobre tecnologia.",
+    "url": "https://noticias.com/tecnologia/noticia-4",
+    "imagen": "https://via.placeholder.com/300x200?text=tecnologia+4",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "tecnologia"
+  },
+  {
+    "titulo": "Tecnologia noticia 5",
+    "descripcion": "Resumen de la noticia 5 sobre tecnologia.",
+    "url": "https://noticias.com/tecnologia/noticia-5",
+    "imagen": "https://via.placeholder.com/300x200?text=tecnologia+5",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "tecnologia"
+  },
+  {
+    "titulo": "Tecnologia noticia 6",
+    "descripcion": "Resumen de la noticia 6 sobre tecnologia.",
+    "url": "https://noticias.com/tecnologia/noticia-6",
+    "imagen": "https://via.placeholder.com/300x200?text=tecnologia+6",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "tecnologia"
+  },
+  {
+    "titulo": "Tecnologia noticia 7",
+    "descripcion": "Resumen de la noticia 7 sobre tecnologia.",
+    "url": "https://noticias.com/tecnologia/noticia-7",
+    "imagen": "https://via.placeholder.com/300x200?text=tecnologia+7",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "tecnologia"
+  },
+  {
+    "titulo": "Tecnologia noticia 8",
+    "descripcion": "Resumen de la noticia 8 sobre tecnologia.",
+    "url": "https://noticias.com/tecnologia/noticia-8",
+    "imagen": "https://via.placeholder.com/300x200?text=tecnologia+8",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "tecnologia"
+  },
+  {
+    "titulo": "Tecnologia noticia 9",
+    "descripcion": "Resumen de la noticia 9 sobre tecnologia.",
+    "url": "https://noticias.com/tecnologia/noticia-9",
+    "imagen": "https://via.placeholder.com/300x200?text=tecnologia+9",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "tecnologia"
+  },
+  {
+    "titulo": "Tecnologia noticia 10",
+    "descripcion": "Resumen de la noticia 10 sobre tecnologia.",
+    "url": "https://noticias.com/tecnologia/noticia-10",
+    "imagen": "https://via.placeholder.com/300x200?text=tecnologia+10",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "tecnologia"
+  }
+]

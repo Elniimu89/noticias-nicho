@@ -1,0 +1,82 @@
+[
+  {
+    "titulo": "Videojuegos noticia 1",
+    "descripcion": "Resumen de la noticia 1 sobre videojuegos.",
+    "url": "https://noticias.com/videojuegos/noticia-1",
+    "imagen": "https://via.placeholder.com/300x200?text=videojuegos+1",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "videojuegos"
+  },
+  {
+    "titulo": "Videojuegos noticia 2",
+    "descripcion": "Resumen de la noticia 2 sobre videojuegos.",
+    "url": "https://noticias.com/videojuegos/noticia-2",
+    "imagen": "https://via.placeholder.com/300x200?text=videojuegos+2",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "videojuegos"
+  },
+  {
+    "titulo": "Videojuegos noticia 3",
+    "descripcion": "Resumen de la noticia 3 sobre videojuegos.",
+    "url": "https://noticias.com/videojuegos/noticia-3",
+    "imagen": "https://via.placeholder.com/300x200?text=videojuegos+3",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "videojuegos"
+  },
+  {
+    "titulo": "Videojuegos noticia 4",
+    "descripcion": "Resumen de la noticia 4 sobre videojuegos.",
+    "url": "https://noticias.com/videojuegos/noticia-4",
+    "imagen": "https://via.placeholder.com/300x200?text=videojuegos+4",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "videojuegos"
+  },
+  {
+    "titulo": "Videojuegos noticia 5",
+    "descripcion": "Resumen de la noticia 5 sobre videojuegos.",
+    "url": "https://noticias.com/videojuegos/noticia-5",
+    "imagen": "https://via.placeholder.com/300x200?text=videojuegos+5",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "videojuegos"
+  },
+  {
+    "titulo": "Videojuegos noticia 6",
+    "descripcion": "Resumen de la noticia 6 sobre videojuegos.",
+    "url": "https://noticias.com/videojuegos/noticia-6",
+    "imagen": "https://via.placeholder.com/300x200?text=videojuegos+6",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "videojuegos"
+  },
+  {
+    "titulo": "Videojuegos noticia 7",
+    "descripcion": "Resumen de la noticia 7 sobre videojuegos.",
+    "url": "https://noticias.com/videojuegos/noticia-7",
+    "imagen": "https://via.placeholder.com/300x200?text=videojuegos+7",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "videojuegos"
+  },
+  {
+    "titulo": "Videojuegos noticia 8",
+    "descripcion": "Resumen de la noticia 8 sobre videojuegos.",
+    "url": "https://noticias.com/videojuegos/noticia-8",
+    "imagen": "https://via.placeholder.com/300x200?text=videojuegos+8",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "videojuegos"
+  },
+  {
+    "titulo": "Videojuegos noticia 9",
+    "descripcion": "Resumen de la noticia 9 sobre videojuegos.",
+    "url": "https://noticias.com/videojuegos/noticia-9",
+    "imagen": "https://via.placeholder.com/300x200?text=videojuegos+9",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "videojuegos"
+  },
+  {
+    "titulo": "Videojuegos noticia 10",
+    "descripcion": "Resumen de la noticia 10 sobre videojuegos.",
+    "url": "https://noticias.com/videojuegos/noticia-10",
+    "imagen": "https://via.placeholder.com/300x200?text=videojuegos+10",
+    "fecha": "2025-12-01T20:39:29Z",
+    "categoria": "videojuegos"
+  }
+]
