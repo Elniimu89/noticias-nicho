@@ -1,0 +1,9 @@
+[
+  {
+    "titulo": "Ejemplo de Noticia",
+    "descripcion": "Esta es una noticia de ejemplo generada localmente.",
+    "url": "https://noticiasaldia.com/ejemplo",
+    "imagen": "https://via.placeholder.com/300x200",
+    "fecha": "2025-11-29T12:00:00Z"
+  }
+]
