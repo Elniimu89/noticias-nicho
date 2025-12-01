@@ -2,12 +2,13 @@ name: Actualizar noticias
 
 on:
   schedule:
-    - cron: "0 8 * * *"
-  workflow_dispatch:
+    - cron: "0 8 * * *"   # Ejecuta todos los días a las 8:00 UTC
+  workflow_dispatch:       # Permite ejecución manual
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Clonar repositorio
         uses: actions/checkout@v3
@@ -20,12 +21,10 @@ jobs:
       - name: Instalar dependencias
         run: pip install -r requirements.txt
 
-      - name: Ejecutar script de scraper
+      - name: Ejecutar scraper
         env:
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
         run: python scraper/update_news.py
 
-                - name: Verificar resultado
-        run: |
-          echo "Noticias actualizadas. Revisa el archivo 'data/noticias.json'."
-
+      - name: Verificar resultado
+        run: echo "Noticias actualizadas correctamente"
