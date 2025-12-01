@@ -1,6 +1,22 @@
 [
   {
     "categoria": "policiales",
+    "titulo": "Jean Paul Pineda fue detenido por “violación de morada” y VIF psicológica: Formalización será este lunes",
+    "descripcion": "El exfutbolista Jean Paul Pineda fue detenido por “violación de morada” y “violencia intrafamiliar de carácter psicológico”, siendo trasladado a una comisaría. Este lunes 1 de diciembre se realizará la audiencia de control de detención en el Juzgado de Garant…",
+    "url": "https://www.cnnchile.com/pais/jean-paul-pineda-fue-detenido-por-violacion-de-morada-y-vif-psicologica-formalizacion-sera-este-lunes_20251130/",
+    "imagen": "https://media.cnnchile.com/sites/2/2025/11/A_UNO_1688576-e1764544133221.jpg",
+    "fecha": "2025-11-30T20:18:07Z"
+  },
+  {
+    "categoria": "policiales",
+    "titulo": "Estado Mayor y Policía capitalina tenían identificados a 75 grupos en toma de protesta de EPN",
+    "descripcion": "El ritual republicano marcó la agenda del 1 de diciembre de 2012: Felipe Calderón entregaría la banda presidencial a Enrique Peña Nieto y el PRI regresaba al poder después de doce años de gobiernos panistas. La Ciudad de México se convertiría en un polvorín, …",
+    "url": "https://www.milenio.com/policia/operativo-secreto-blindo-cdmx-en-toma-de-protesta-de-pena-nieto",
+    "imagen": "https://cdn.milenio.com/uploads/media/2025/11/30/enrique-pena-nieto-toma-protesta.jpg",
+    "fecha": "2025-11-30T19:59:00Z"
+  },
+  {
+    "categoria": "policiales",
     "titulo": "Hombre asesinado de varios disparos en el Cerro; policías lo encontraron en la calle",
     "descripcion": "La víctima tenía “pocos signos vitales” y “abundante sangrado a la altura del dorso”; fue hospitalizado de urgencia, pero falleció luego.",
     "url": "https://www.montevideo.com.uy/Noticias/Hombre-asesinado-de-varios-disparos-en-el-Cerro-policias-lo-encontraron-en-la-calle-uc944965",
@@ -62,22 +78,6 @@
     "url": "https://www.latercera.com/nacional/noticia/motociclista-argentino-fallece-tras-sufrir-accidente-de-transito-en-ruta-60-ch-entre-quilpue-y-vina-del-mar/",
     "imagen": "https://www.latercera.com/resizer/v2/CPYZEY7D5VGVJKWBSB2EBCDH6U.jpg?auth=5e46227c32e4df1263ab5e5159e28c83bb14bfa42d75a4b73a8fea8c5bb74265&height=630&width=1200&smart=true",
     "fecha": "2025-11-30T14:42:20Z"
-  },
-  {
-    "categoria": "policiales",
-    "titulo": "Pilar Alegría, sobre la manifestación del PP: \"Aún no les he visto manifestarse por la sanidad pública\"",
-    "descripcion": "En la semana en la que han entrado en prisión el exministro de Transportes, José Luis Ábalos, y su asesor, Koldo García, y coincidiendo con la manifestación convocada por el PP y Vox en Madrid para pedir elecciones, la portavoz del Gobierno y Ministra de Educ…",
-    "url": "https://www.elperiodico.com/es/politica/20251130/pilar-alegria-manifestacion-pp-les-124289530",
-    "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f9690458-69e3-4416-88e4-03019f9f9423_16-9-discover-aspect-ratio_default_0.jpg",
-    "fecha": "2025-11-30T14:41:23Z"
-  },
-  {
-    "categoria": "policiales",
-    "titulo": "Al menos 4 muertos y 10 heridos en un tiroteo cuando celebraban un cumpleaños infantil en California",
-    "descripcion": "Las autoridades pertinentes han pedido la colaboración ciudadana para identificar y detener al autor.\nMás información: Así fue la persecución del afgano que atacó a dos soldados de la Guardia Nacional en Washington antes de disparar",
-    "url": "https://www.elespanol.com/mundo/20251130/muertos-heridos-tiroteo-celebraban-cumpleanos-infantil-california/1003744036162_0.html",
-    "imagen": "https://s3.elespanol.com/2025/11/30/actualidad/1003744036168_260233004_1706x960.jpg?fmt=jpeg",
-    "fecha": "2025-11-30T14:32:20Z"
   },
   {
     "categoria": "espectaculos",
@@ -145,6 +145,30 @@
   },
   {
     "categoria": "videojuegos",
+    "titulo": "Revisitando Jill of the Jungle, el último juego diseñado por Tim Sweeney (ENG)",
+    "descripcion": "¡Vaya, 1992 fue un año muy diferente para los videojuegos! Jill of the Jungle, de Epic MegaGames, lo ilustra tan bien como cualquier otro título de la época. Diseñado y programado por Tim Sweeney, director ejecutivo de Epic Games, el juego tenía como objetivo…",
+    "url": "https://www.meneame.net/m/tecnología/revisitando-jill-of-the-jungle-ultimo-juego-disenado-tim-sweeney",
+    "imagen": "https://www.meneame.net//cdn.mnmstatic.net/img/mnm/logo-350x350.png",
+    "fecha": "2025-11-30T20:26:57Z"
+  },
+  {
+    "categoria": "videojuegos",
+    "titulo": "Los precios de la memoria RAM se fueron a las nubes y ahora es más barato comprarte hasta un PS5 Pro que actualizar tu PC",
+    "descripcion": "Lo que antes se consideraba un componente secundario, que se compraba casi al final de armar una PC Gamer, se ha transformado en un artículo con precios disparados que llegan a cuadruplicar su valor de hace unos años. Hablamos de las memorias RAM, esenciales …",
+    "url": "https://www.xataka.com.mx/videojuegos/precios-memoria-ram-se-fueron-a-nubes-ahora-barato-comprarte-ps5-pro-que-actualizar-tu-pc",
+    "imagen": "https://i.blogs.es/638b80/luan-gjokaj-y4_xz3cs96w-unsplash/840_560.jpeg",
+    "fecha": "2025-11-30T20:00:50Z"
+  },
+  {
+    "categoria": "videojuegos",
+    "titulo": "Los blockbusters cada vez parecen más videojuegos triple A. ‘Predator: Badlands’ podría ser perfectamente una extensión de ‘Horizon’",
+    "descripcion": "La industria en la última década ha hecho un notable esfuerzo porque cine y series acaben menos distanciadas, haciendo que el lenguaje audiovisual “espectacular” sea accesible a través de aplanarlo y hacer que las historias sean interminables por afán de fran…",
+    "url": "https://www.espinof.com/estrenos/blockbusters-cada-vez-parecen-videojuegos-triple-a-predator-badlands-podria-ser-perfectamente-extension-horizon",
+    "imagen": "https://i.blogs.es/a8c599/predator-badlands-2025-dan-trachtenberg/840_560.jpeg",
+    "fecha": "2025-11-30T20:00:50Z"
+  },
+  {
+    "categoria": "videojuegos",
     "titulo": "Google Pixel 10 Pro 128GB smartphone – 764,15 € – 30% descuento",
     "descripcion": "Para conseguir el precio promocionado del GOOGLE PIXEL 10 PRO 128GB es imprescindible INICIAR SESIÓN EN AMAZON y luego APLICAR EL CÓDIGO DE DESCUENTO GOOGLE15 en el proceso de compra.Google Pixel 10 Pro de 128 GB con la IA más avanzada de la familia Pixel lle…",
     "url": "https://www.blogdechollos.com/google-pixel-10-pro-128gb-smartphone-76415-e-30-descuento/",
@@ -200,30 +224,6 @@
     "fecha": "2025-11-30T16:00:56Z"
   },
   {
-    "categoria": "videojuegos",
-    "titulo": "#ZNCine – Las noticias de la semana #5 Noviembre 2025",
-    "descripcion": "Lo más destacado de la actualidad de cine y la televisión esta semana: 28 años después: El templo de los huesos, El exorcista, How to make a Killing, Dead Man’s Wire, Assassin´s Creed, Far Cry, Amadeus y mucho más.",
-    "url": "https://www.zonanegativa.com/zncine-las-noticias-de-la-semana-5-noviembre-2025/",
-    "imagen": "https://www.zonanegativa.com/imagenes/2025/11/Assassins.jpg",
-    "fecha": "2025-11-30T16:00:18Z"
-  },
-  {
-    "categoria": "videojuegos",
-    "titulo": "La cuarta edición del salón del videojuego en catalán, SAGA, bate récords, con 9.000 visitas",
-    "descripcion": "Un total de 9.000 personas han asistido desde el pasado viernes hasta este domingo a la cuarta edición del salón SAGA, dedicado al videojuego en catalán, que ha batido récords de participación y ha reunido a 70 expositores entre empresas, clubes y centros for…",
-    "url": "https://www.elperiodico.com/es/sociedad/20251130/salon-saga-videojuego-catalan-hospitalet-124290680",
-    "imagen": "https://estaticos-cdn.prensaiberica.es/clip/86584ace-458f-4931-9f31-e30caccc34b7_16-9-discover-aspect-ratio_default_0.jpg",
-    "fecha": "2025-11-30T15:39:30Z"
-  },
-  {
-    "categoria": "videojuegos",
-    "titulo": "Después de 30 años, se ha descubierto un nuevo truco en Super Mario 64 que romperá los mejores tiempos de los speedruns",
-    "descripcion": "De todos los videojuegos que existen a los que la comunidad de speedruns le dedica parte de su tiempo, Super Mario 64 es uno de los más populares y de los que cuenta con una mayor cantidad de jugadores que han tratado de superarlo en un tiempo récord. Con cas…",
-    "url": "https://www.vidaextra.com/aventura-plataformas/despues-30-anos-se-ha-descubierto-nuevo-truco-super-mario-64-que-rompera-mejores-tiempos-speedruns",
-    "imagen": "https://i.blogs.es/e38190/sm64/840_560.jpeg",
-    "fecha": "2025-11-30T15:01:27Z"
-  },
-  {
     "categoria": "peliculas",
     "titulo": "La neurociencia de por qué el arte nos hace vivir más lento",
     "descripcion": "¿Recuerdas lo eternos que eran los veranos en tu infancia? \n Esas tardes de agosto parecían no tener fin, repletas de descubrimientos, aburrimiento y aventuras. Sin embargo, hoy, las semanas se disuelven entre tus dedos como azucarillos en el café caliente. D…",
@@ -273,6 +273,54 @@
   },
   {
     "categoria": "series",
+    "titulo": "Murió el dramaturgo Tom Stoppard, guionista de Shakespeare enamorado y El imperio del sol y ganador del Oscar",
+    "descripcion": "“Un amigo y compañero que siempre extrañaré”, señaló Mick Jagger al enterarse del deceso de esta figura del teatro",
+    "url": "https://www.lanacion.com.ar/espectaculos/teatro/murio-el-dramaturgo-tom-stoppard-guionista-de-shakespeare-enamorado-y-el-imperio-del-sol-y-ganador-nid30112025/",
+    "imagen": "https://resizer.glanacion.com/resizer/v2/tom-stoppard-en-una-foto-de-2012-en-ocasion-del-SAHYIV76HRHHLOCUJXVHQC2VCA.jpg?auth=f322d99fb6e8878926ddb4920e5cf1e71228f0bed28b6d638c944b4cb3b2572f&width=1200&quality=70&smart=false&height=850",
+    "fecha": "2025-11-30T20:42:37Z"
+  },
+  {
+    "categoria": "series",
+    "titulo": "Eduardo Casanova: \"Quería mezclar comedia, vampiras y VIH para abrir un debate\"",
+    "descripcion": "En el Día Mundial de la Lucha contra el SIDA Movistar Plus+ ha decidido estrenar Silencio, la nueva serie dirigida por Eduardo Casanova y protagonizada por Ana Polvorosa, María León, Mariola Fuentes, Leticia Dolera y Omar Ayuso, entre otros. Leer",
+    "url": "https://www.elmundo.es/television/2025/11/30/6929c717fdddffda438b459d.html",
+    "imagen": "https://phantom-elmundo.uecdn.es/eaafaa8e0724a1127035ab3fe70ca1f6/crop/194x0/1814x1080/resize/1200/f/webp/assets/multimedia/imagenes/2025/11/28/17643451615930.jpg",
+    "fecha": "2025-11-30T20:41:17Z"
+  },
+  {
+    "categoria": "series",
+    "titulo": "El nazi atractivo",
+    "descripcion": "Puede que Núremberg quiera ser muchas películas a la vez y no consiga ser del todo ninguna, pero sí que hace una cosa muy bien: mostrar que algunos monstruos tienen mucho carisma y que es necesario reconocerlo para no caer en sus redes Leer",
+    "url": "https://www.elmundo.es/cultura/2025/11/30/692abe17e9cf4a86728b4577.html",
+    "imagen": "https://phantom-elmundo.uecdn.es/a3aa1631687ad3f431a662c87a031843/crop/0x0/824x549/f/webp/assets/multimedia/imagenes/2025/11/29/17644088843987.jpg",
+    "fecha": "2025-11-30T20:40:14Z"
+  },
+  {
+    "categoria": "series",
+    "titulo": "El equipo de Escape from Tarkov rompe el silencio sobre una posible versión para Xbox Series y PS5",
+    "descripcion": "¿Escape from Tarkov llegará a PS5 y Xbox Series? El estudio responde con claridad.",
+    "url": "https://generacionxbox.com/el-equipo-de-escape-from-tarkov-rompe-el-silencio-sobre-una-posible-version-para-xbox-series-y-ps5/",
+    "imagen": "https://generacionxbox.com/wp-content/uploads/2023/02/escape-from-tarkov-1024x576.jpg",
+    "fecha": "2025-11-30T20:21:38Z"
+  },
+  {
+    "categoria": "series",
+    "titulo": "Los blockbusters cada vez parecen más videojuegos triple A. ‘Predator: Badlands’ podría ser perfectamente una extensión de ‘Horizon’",
+    "descripcion": "La industria en la última década ha hecho un notable esfuerzo porque cine y series acaben menos distanciadas, haciendo que el lenguaje audiovisual “espectacular” sea accesible a través de aplanarlo y hacer que las historias sean interminables por afán de fran…",
+    "url": "https://www.espinof.com/estrenos/blockbusters-cada-vez-parecen-videojuegos-triple-a-predator-badlands-podria-ser-perfectamente-extension-horizon",
+    "imagen": "https://i.blogs.es/a8c599/predator-badlands-2025-dan-trachtenberg/840_560.jpeg",
+    "fecha": "2025-11-30T20:00:50Z"
+  },
+  {
+    "categoria": "series",
+    "titulo": "Convierte tu TV en una Smart TV 4K por solo 29,99€ este Black Friday",
+    "descripcion": "No cambies de televisión: este pequeño gadget por menos de 30 euros la transforma en un modelo de alta gama",
+    "url": "https://www.hola.com/seleccion/20251130870327/amazon-fire-stick-4k-oferta-black-friday/",
+    "imagen": "https://www.hola.com/horizon/landscape/ec4c906c71cd-oscar-nord-sd87v72cjeu-unsplash.jpg?im=Resize=(1200)",
+    "fecha": "2025-11-30T20:00:00Z"
+  },
+  {
+    "categoria": "series",
     "titulo": "Hisense U6 2025 con Alexa me enseñó que una buena pantalla no debe ser lenta o cara",
     "descripcion": "A principios de año, Hisense anunció una alianza con Amazon para dotar de software a una de sus series más populares de televisores: los U6. El resultado es un televisor con casi cualquier aplicación y con la tecnología necesaria para nuestro día a día, lo qu…",
     "url": "https://www.xataka.com.mx/home/hisense-u6-2025-alexa-me-enseno-que-buena-pantalla-no-debe-ser-lenta-cara",
@@ -302,54 +350,6 @@
     "url": "https://www.excelsior.com.mx/nacional/loteria-nacional-resultados-del-sorteo-zodiaco-1728-del-30-de-noviembre-de-2025/1754724",
     "imagen": "https://www.excelsior.com.mx/media/pictures/2025/11/30/3426637.jpg",
     "fecha": "2025-11-30T18:51:44Z"
-  },
-  {
-    "categoria": "series",
-    "titulo": "Beneficios de Vodafone por la subida de precios en enero de 2026",
-    "descripcion": "Como cada vez que hay una subida de precios, el operador suele ofrecer unas ventajas o mejoras en los servicios. Este año no son ninguna maravilla, y en materia de televisión se han centrado y mucho en basura de canales FAST. Aqui teneis las mejoras:Mejoras p…",
-    "url": "https://bandaancha.eu/foros/beneficios-vodafone-subida-8-enero-2026-1758585",
-    "imagen": "https://bandaancha.eu/s/2o1o/140/subida-precios-vodafone.jpg",
-    "fecha": "2025-11-30T18:45:09Z"
-  },
-  {
-    "categoria": "series",
-    "titulo": "Las mejores 9 series de diciembre, con 'Ciudad de sombras', 'Fallout' y 'Emily in Paris' al frente de los 42 estrenos",
-    "descripcion": "Por última vez este año, recogemos todos los estrenos de series del mes. Diciembre llega con cierto \"cansancio\" para cerrar 2025, con menos número de lanzamientos y pocos títulos destacados, pero aún así te ayudamos recopilando qué traen Netflix, Amazon Prime…",
-    "url": "https://www.eldiario.es/vertele/series/mejores-series-diciembre-2025-ciudad-de-sombras-fallout-emily-in-paris-42-estrenos-netflix-amazon-prime-video-movistar-plus-disney_1_12795266.html",
-    "imagen": "https://static.eldiario.es/clip/8a076289-c267-4e76-b24f-7824282cfca7_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
-    "fecha": "2025-11-30T18:45:07Z"
-  },
-  {
-    "categoria": "series",
-    "titulo": "Doctor Strange vs Doctor Doom: Benedict Cumberbatch revela quién vencería en Vengadores Doomsday",
-    "descripcion": "Vengadores: Doomsday tiene prevista su llegada a los cines el 18 de diciembre de 2026. Aunque las posibilidades de que Benedict Cumberbatch aparezca en la película de Joe y Anthony Russo son bastante remotas, el actor -que retomará su rol como Doctor Strange …",
-    "url": "https://www.culturaocio.com/cine/noticia-doctor-strange-vs-doctor-doom-benedict-cumberbatch-revela-quien-venceria-vengadores-doomsday-20251130193749.html",
-    "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20251130193749_1200.jpg",
-    "fecha": "2025-11-30T18:37:49Z"
-  },
-  {
-    "categoria": "series",
-    "titulo": "Un simple mensaje bastó para que Cillian Murphy le arrebatara a Jason Statham el papel de protagonista en Peaky Blinders",
-    "descripcion": "Resulta complicado imaginar a ciertos personajes de películas y series de televisión interpretados por otros actores y actrices que a veces han rechazado esos papeles o se quedaron a las puertas de ser seleccionados. Uno de esos casos se vivió en Peaky Blinde…",
-    "url": "https://www.vidaextra.com/series/simple-mensaje-basto-cillian-murphy-le-arrebatara-a-jason-statham-papel-protagonista-peaky-blinders",
-    "imagen": "https://i.blogs.es/e65479/peaky-blinders/840_560.jpeg",
-    "fecha": "2025-11-30T18:30:49Z"
-  },
-  {
-    "categoria": "series",
-    "titulo": "Accede a fútbol y a todo el catálogo de Movistar Plus+ por solo 1 euro",
-    "descripcion": "Movistar Plus+ tiene una de las mejores ofertas del Black Friday y se va a terminar en cuestión de horas. Su suscripción mensual cuesta ahora 10 veces menos, quedándose en solo 1 euro y pudiendo acceder a todo su contenido: futbol nacional e internacional, se…",
-    "url": "https://ipadizate.com/apple-tv/accede-a-futbol-y-a-todo-el-catalogo-de-movistar-plus-por-solo-1-euro",
-    "imagen": "https://ipadizate.com/hero/2025/11/movistar-black-friday.jpg?width=1200",
-    "fecha": "2025-11-30T18:04:32Z"
-  },
-  {
-    "categoria": "series",
-    "titulo": "Para mí, es de lejos la mejor película española de todos los tiempos y está en streaming por solo 1 euro",
-    "descripcion": "Movistar Plus+ está ofreciendo una gran promoción con una oferta inigualable con motivo de la celebración del Black Friday. Es cierto que Apple brinda sus usuarios, un catálogo con excelentes propuestas de muy alta calidad en Apple TV. La plataforma de stream…",
-    "url": "https://ipadizate.com/apple-tv/para-mi-es-de-lejos-la-mejor-pelicula-espanola-de-todos-los-tiempos-y-esta-en-streaming-por-solo-1-euro",
-    "imagen": "https://ipadizate.com/hero/2025/11/1e06492be7c05fbff4af6aa87091de8cb1c340f8.jpg?width=1200",
-    "fecha": "2025-11-30T18:01:59Z"
   },
   {
     "categoria": "politica",
@@ -513,83 +513,91 @@
   },
   {
     "categoria": "salud",
-    "titulo": "El Gobierno de La Rioja compra tres coches de alta gama por casi 220.000 euros para sus consejeros",
-    "descripcion": "El Gobierno ha ido renovando la flota de vehículos para diferentes servicios, también el coche del presidente y tres vehículos más de alta gama por más de 72.000 euros cada uno de ellos destinados a \"representación\"\r\n\n El Gobierno de La Rioja dispone de una e…",
-    "url": "https://www.eldiario.es/la-rioja/gobierno-rioja-compra-tres-coches-alta-gama-220-000-euros-consejeros_1_12799550.html",
-    "imagen": "https://static.eldiario.es/clip/b50da579-0e9c-46b7-9cd3-83d5e1551d63_facebook-watermarked-aspect-ratio_default_1131557.jpg",
-    "fecha": "2025-11-30T19:36:13Z"
+    "titulo": "Gobierno: crece el malestar de los funcionarios por sus sueldos, pero Milei no dio el aval para un aumento",
+    "descripcion": "En la Casa Rosada aseguran que podría evaluarse una recomposición pero que la definición la tendrán el Presidente, Karina Milei y Adorni; “más retrasás el anuncio, peor es”, resumen en un ministerio",
+    "url": "https://www.lanacion.com.ar/politica/gobierno-crece-el-malestar-de-los-funcionarios-por-sus-sueldos-pero-todavia-milei-no-dio-el-aval-nid30112025/",
+    "imagen": "https://resizer.glanacion.com/resizer/v2/javier-milei-se-retira-de-casa-XAS3QSAGJBAKNPYCGU5U2WI2YQ.jpeg?auth=a517ca132be4ceda4836a12cd0e6764d8a20204baafb0e9b378cc0807930e54c&width=1200&quality=70&smart=false&height=800",
+    "fecha": "2025-11-30T20:59:13Z"
   },
   {
     "categoria": "salud",
-    "titulo": "El tipo de magnesio que puede ayudar a dormir mejor a quienes trabajan de noche",
-    "descripcion": "Un estudio se enfocó en la efectividad del bisglicinato de magnesio para combatir los problemas de sueño, algo repetido entre quienes trabajan por la noche.",
-    "url": "https://www.lanacion.com.ar/lifestyle/el-tipo-de-magnesio-que-puede-ayudar-a-dormir-mejor-a-quienes-trabajan-de-noche-nid30112025/",
-    "imagen": "https://resizer.glanacion.com/resizer/v2/un-estudio-se-enfoco-en-los-efectos-del-HFVP44AWDZGYDFS7YBRZKPYTIM.jpg?auth=f4dbbf9a85941926ac59e38a2cbd0b903fc8addf371faa422a99d8f9986d8f93&width=1200&quality=70&smart=false&height=800",
-    "fecha": "2025-11-30T19:23:00Z"
+    "titulo": "‘Es una falta de respeto’: Entrenador de San Diego FC dio contundente mensaje sobre continuidad de Chucky Lozano",
+    "descripcion": "Tras caer por un gol ante Whitecaps, Mikey Varas, habló sobre el futuro del jugador mexicano en la MLS",
+    "url": "https://www.record.com.mx/futbol/futbol-internacional/es-una-falta-de-respeto-entrenador-de-san-diego-fc-dio-contundente",
+    "imagen": "https://www.record.com.mx/sites/default/files/articulos/2025/11/30/es-una-falta-de-respeto-entrenador-de-san-diego-fc-dio-contundente-mensaje-sobre-continuidad-de.webp",
+    "fecha": "2025-11-30T20:51:06Z"
   },
   {
     "categoria": "salud",
-    "titulo": "Derechista Asfura niega que indulto de Trump a expresidente hondureño sea para favorecerlo",
-    "descripcion": "Trump pidió votar por Asfura so pena de cortar la cooperación con Honduras y anunció que indultará a exmandatario condenado por narcotráfico",
-    "url": "https://www.nacion.com/el-mundo/derechista-asfura-niega-que-indulto-de-trump-a/7TWXW2M6R5EH5NJV7J6EQCYRPQ/story/",
-    "imagen": "https://www.nacion.com/resizer/v2/HHHBNZHKCVF73JKV6GDFA7OQOU.jpg?smart=true&auth=e100d1e820e8abb7a3caf5be520c9f44d0dbebd6976ad2a1bfb5f03ee4a59e65&width=1440",
-    "fecha": "2025-11-30T19:17:16Z"
+    "titulo": "Cantabria es la única comunidad que rechazó plazas MIR de Urgencias mientras el Hospital Valdecilla se satura con más de 400 pacientes al día",
+    "descripcion": "La Consejería de Salud cree que no hacen falta más médicos aunque se atiende diariamente a cien personas más: \"Estamos acostumbrados a trabajar en el caos\", dice el presidente de SEMES Luis Prieto\r\nAntecedentes - PSOE, PRC y Vox aprueban aceptar todas las pla…",
+    "url": "https://www.eldiario.es/cantabria/ultimas-noticias/cantabria-unica-comunidad-rechazo-plazas-mir-urgencias-hospital-valdecilla-satura-400-pacientes-dia_1_12773429.html",
+    "imagen": "https://static.eldiario.es/clip/0f27f866-8d57-4886-bf97-d65dd7064a74_facebook-watermarked-aspect-ratio_default_0.jpg",
+    "fecha": "2025-11-30T20:49:51Z"
   },
   {
     "categoria": "salud",
-    "titulo": "Conductor de televisión se desvanece en vivo y su equipo se ríe; redes 'explotan' contra los compañeros: \"Qué vergüenza\"",
-    "descripcion": "Daniel Gómez Rinaldi, conductor de televisión, se vio envuelto en una complicada situación cuando estaba en plena programación en vivo pues sufrió una crisis de salud que lo llevó a desplomarse.Los hechos fueron atestiguados por la audiencia, quien se mostró …",
-    "url": "https://www.milenio.com/espectaculos/famosos/conductor-television-desvanece-en-vivo-companeros-rien-enoja-video",
-    "imagen": "https://cdn.milenio.com/uploads/media/2025/11/30/presentador-se-desploma-en-vivo.jpg",
-    "fecha": "2025-11-30T19:16:00Z"
+    "titulo": "Disminuye en 85% los casos de dengue con respecto a 2024",
+    "descripcion": "Patricia Rodríguez Calva\r\nA un mes de que concluya el año, la Estrategia Nacional para el Control del Dengue logró una disminución de cerca del 85%  de los casos confirmados en el territorio nacional, en comparación con el año pasado, informó la secretaría de…",
+    "url": "https://www.excelsior.com.mx/nacional/disminuye-en-85-los-casos-de-dengue-con-respecto-a-2024/1754739",
+    "imagen": "https://www.excelsior.com.mx/media/pictures/2025/11/30/3426704.jpg",
+    "fecha": "2025-11-30T20:47:49Z"
   },
   {
     "categoria": "salud",
-    "titulo": "Neil Davin, médico, sobre la fruta infravalorada en España: \"Es el Santo Grial de la longevidad, protege tu cuerpo como una armadura medieval\"",
-    "descripcion": "<![CDATA[<p>En los últimos años, pocas frutas han ganado tanta reputación en el mundo de la salud como los arándanos. No solo están presentes en yogures, batidos o mezclas energéticas: también se han convertido en un símbolo de alimentación consciente. Un rep…",
-    "url": "https://www.huffingtonpost.es/life/salud/neil-davin-medico-sobre-fruta-infravalorada-espana-es-santo-grial-longevidad-protege-cuerpo-armadura-medieval.html",
-    "imagen": "https://img2.huffingtonpost.es/files/og_thumbnail/uploads/2025/11/30/frutas-variadas-formando-remolinos.jpeg",
-    "fecha": "2025-11-30T19:15:00Z"
+    "titulo": "Despega el Programa para la Industria de Defensa Europea: su revolución, en cuatro claves",
+    "descripcion": "<![CDATA[<p>El Parlamento Europeo (PE) aprobó el pasado martes el nuevo Reglamento que establece el Programa para la Industria de Defensa Europea (EDIP). Se trata de una norma destinada a reforzar la preparación industrial, estimular la adquisición y fabricac…",
+    "url": "https://www.huffingtonpost.es/global/despega-programa-industria-defensa-europea-revolucion-cuatro-claves.html",
+    "imagen": "https://img2.huffingtonpost.es/files/og_thumbnail/uploads/2025/11/27/cabina-de-un-airbus-a400m-de-cuatro-motores-turbohelice-de-transporte-militar-el-20-de-febrero-de-2025-durante-el-vuelo-entre-noruega-y-el-reino-unido.jpeg",
+    "fecha": "2025-11-30T20:43:01Z"
   },
   {
     "categoria": "salud",
-    "titulo": "Estas 6 acciones podrían ayudarle a desperdiciar menos comida en su hogar",
-    "descripcion": "Seis recomendaciones científicas fáciles de aplicar que pueden ayudarle a reducir el desperdicio de alimentos desde su hogar y generar impacto positivo.",
-    "url": "https://www.nacion.com/ciencia/estas-6-acciones-podrian-ayudarle-a-desperdiciar/YE2EPGK4KNFDBCIFI6GH4GE5K4/story/",
-    "imagen": "https://www.nacion.com/resizer/v2/EFSSBGN7MNB2FHG2Z6H434OF4Y.png?smart=true&auth=3830eb6eb2067a3045a29d667b2e0ac4cf4b93621e21143b226651b1200771c3&width=1440",
-    "fecha": "2025-11-30T19:10:50Z"
+    "titulo": "Calendario de pagos SNAP para Carolina del Norte de diciembre 2025",
+    "descripcion": "El calendario del pago de SNAP en diciembre en Carolina del Norte; los beneficios se depositan de forma escalonada en los primeros días del mes según el número de caso",
+    "url": "https://www.lanacion.com.ar/estados-unidos/carolina-del-norte/calendario-de-pagos-snap-para-carolina-del-norte-de-diciembre-2025-nid30112025/",
+    "imagen": "https://resizer.glanacion.com/resizer/v2/el-monto-de-los-pagos-de-snap-depende-del-numero-54IAVXM6AZBZFHSDJIDQ2QWIAM.jpg?auth=adaf526bf87ca786edcecec842320698bbdd1f89d1219fc6b2660789d06ca1a8&width=1200&quality=70&smart=false&height=800",
+    "fecha": "2025-11-30T20:43:00Z"
   },
   {
     "categoria": "salud",
-    "titulo": "Pades Mutuam (Difusión)",
-    "descripcion": "A LA ATENCION DE\r\nDoña ENMA COSTA.\r\nDIRECTORA DEL PADES MUTUAM... en Cataluña y a cuantos ciudadanos de Barcelona se vean afectados por lo que expongo.ñ..\r\n------------------------------------\r\nSra. Da. ENMA COSTA, permitame digirirme a Usted con todo respeto…",
-    "url": "https://www.meneame.net/m/Artículos/pades-mutuam-difusion",
-    "imagen": "https://www.meneame.net//cdn.mnmstatic.net/img/mnm/logo-350x350.png",
-    "fecha": "2025-11-30T19:01:21Z"
+    "titulo": "La España de Chus desata la ilusión ante Georgia",
+    "descripcion": "La selección española firmó un auténtico espectáculo ante Georgia . Ilusionó como antaño, corrió, luchó el rebote y abrasó a los visitantes con una lluvia de triples que pareció infinita . Nunca aflojó hasta que sus rivales estuvieron derrumbados, un escenari…",
+    "url": "https://www.abc.es/deportes/baloncesto/espana-georgia-20251130171550-nt.html",
+    "imagen": "https://s2.abcstatics.com/abc/www/multimedia/deportes/2025/11/30/1503594980-U73667332426plW-1024x512@diario_abc.jpg",
+    "fecha": "2025-11-30T20:41:16Z"
   },
   {
     "categoria": "salud",
-    "titulo": "Alberto Ginés: \"Reivindicar lo de Gaza o los derechos LGTBI no me parece política, me parece reivindicar algo lógico y humanitario\"",
-    "descripcion": "<![CDATA[<p>La carta de presentación a nivel mediático de Alberto Ginés (Cáceres, 2002) fue, nada más y nada menos, que la de un oro olímpico. Sin paños calientes ni términos medios. El 5 de agosto del 2021, este escalador extremeño se llevó con tan solo 18 a…",
-    "url": "https://www.huffingtonpost.es/deporte/alberto-gines-reivindicar-gaza-derechos-lgtbi-me-parece-politica-me-parece-reivindicar-logico-humanitario.html",
-    "imagen": "https://img2.huffingtonpost.es/files/og_thumbnail/uploads/2025/11/28/alberto-gines-posando.jpeg",
-    "fecha": "2025-11-30T19:00:24Z"
+    "titulo": "Ana Mª Shua: \"A las mujeres nos gusta cuidar, qué le vamos a hacer. Y tiene su parte sádica también. La que cuida es la que manda\"",
+    "descripcion": "Lo inapelable del dolor y lo descabellado de que la enfermedad nos elija configuran estos doce universos tan íntimos como definitorios del ser humano. Cirugía y humor, pañales y misterio, las fronteras se quiebran. «La realidad siempre nos toma por sorpresa».…",
+    "url": "https://www.elmundo.es/cultura/literatura/2025/11/30/691f6c38e85ece09498b456f.html",
+    "imagen": "https://phantom-elmundo.uecdn.es/45ba09ac83e242effd569484ed698cd7/resize/1200/f/webp/assets/multimedia/imagenes/2025/11/20/17636684469143.png",
+    "fecha": "2025-11-30T20:40:15Z"
   },
   {
     "categoria": "salud",
-    "titulo": "Lotería Nacional: Resultados del Sorteo Zodiaco 1728 del 30 de noviembre de 2025",
-    "descripcion": "Clara Vázquez\r\nEste domingo 30 de noviembre, la Lotería Nacional lleva a cabo el Sorteo Zodiaco 1728, el cual está dedicado 87 aniversario de la creación y promulgación del Estatuto Jurídico de la Federación de Sindicatos de Trabajadores al Servicio del Estad…",
-    "url": "https://www.excelsior.com.mx/nacional/loteria-nacional-resultados-del-sorteo-zodiaco-1728-del-30-de-noviembre-de-2025/1754724",
-    "imagen": "https://www.excelsior.com.mx/media/pictures/2025/11/30/3426637.jpg",
-    "fecha": "2025-11-30T18:51:44Z"
+    "titulo": "LeBron James, fuera de las duelas: los Lakers anuncian que irá día a día",
+    "descripcion": "Fernando Islas\r\nLa gerencia de los Lakers decidió que LeBron James no participe en el juego de este domingo ante los Pelícanos de Nueva Orleans. El motivo es por una molestia en su pie derecho, detectada tras su retorno reciente a la actividad.\r\n\nEl equipo an…",
+    "url": "https://www.excelsior.com.mx/adrenalina/lebron-james-fuera-de-las-duelas-los-lakers-anuncian-que-ira-dia-a-dia/1754736",
+    "imagen": "https://www.excelsior.com.mx/media/pictures/2025/11/30/3426673.jpg",
+    "fecha": "2025-11-30T20:22:57Z"
   },
   {
     "categoria": "salud",
-    "titulo": "Las nuevas reglas de SNAP por la que se podría perder en beneficio en 2026",
-    "descripcion": "Las personas que reciben los cupones de alimentación en Estados Unidos deberán cumplir con nuevos lineamientos para no perder el apoyo el próximo año",
-    "url": "https://www.lanacion.com.ar/estados-unidos/las-nuevas-reglas-de-snap-por-la-que-se-podria-perder-en-beneficio-en-2026-nid30112025/",
-    "imagen": "https://resizer.glanacion.com/resizer/v2/los-beneficiarios-del-snap-tendran-que-consultar-5OS3TUYBSVFBDO744OZVWDJKUY.jpg?auth=3e35aaeabf634b3520b8ef8ba34a77c55a9bd1511204c59fb62038aa018da86a&width=1200&quality=70&smart=false&height=800",
-    "fecha": "2025-11-30T18:51:29Z"
+    "titulo": "Federico Gómez, de una desgarradora confesión sobre salud mental a cerrar el año ganando un Challenger",
+    "descripcion": "El tenista de Merlo, que estremeció a todos al contar que había tenido “pensamientos suicidas” y recibió el apoyo de figuras como Djokovic, se coronó en Temuco y subirá 66 lugares",
+    "url": "https://www.lanacion.com.ar/deportes/tenis/federico-gomez-de-una-desgarradora-confesion-sobre-salud-mental-a-cerrar-el-ano-ganando-un-nid30112025/",
+    "imagen": "https://resizer.glanacion.com/resizer/v2/federico-agustin-gomez-gano-el-challenger-de-2RKWSOUJZZDCVFVDQUPK5IPJQY.jpg?auth=e53e5095e3dd0ebfa1e067ca0dd0edf60fea2ae05c616db39fc6568593125d39&width=1200&quality=70&smart=false&height=874",
+    "fecha": "2025-11-30T20:12:03Z"
+  },
+  {
+    "categoria": "finanzas",
+    "titulo": "Bono navideño en Florida: quiénes recibirán el pago extra de 1000 dólares en Hialeah",
+    "descripcion": "Descubre quiénes recibirán el bono navideño de 1000 dólares en una ciudad de Florida y por qué la medida generó polémica tras las elecciones locales.",
+    "url": "https://www.lanacion.com.ar/estados-unidos/florida/bono-navideno-en-florida-quienes-recibiran-el-pago-extra-de-1000-dolares-en-hialeah-nid27112025/",
+    "imagen": "https://resizer.glanacion.com/resizer/v2/la-administracion-de-hialeah-anuncio-un-bono-CJBAFXIW3JGEPP6CGTC7M76ERU.jpg?auth=9b9f227b03665a28249877a26036f03c4ad29ee7526ec7c60ff5bbb1e3b39a6f&width=1200&quality=70&smart=false&height=800",
+    "fecha": "2025-11-30T21:00:00Z"
   },
   {
     "categoria": "finanzas",
@@ -662,14 +670,6 @@
     "url": "https://www.elfinanciero.com.mx/economia/2025/11/30/deuda-de-pemex-estas-son-las-cifras-de-petroleos-mexicanos-que-dan-miedo/",
     "imagen": "https://www.elfinanciero.com.mx/resizer/v2/ZYAR4QB6LNEJVPV4QAPHS6ZDRE.png?smart=true&auth=8363a80c5468454767d17199e56061ddc8c48859cbcdae46320e94c32b19d666&width=1200&height=630",
     "fecha": "2025-11-30T15:07:32Z"
-  },
-  {
-    "categoria": "finanzas",
-    "titulo": "Toqio se refuerza para expandir las soluciones financieras a las empresas",
-    "descripcion": "Toqio, la plataforma de tecnología especializada en dotar a las empresas de soluciones financieras, se refuerza para crecer. La entidad ficha a Enrique Cárcamo Wucherpfennig como vicepresidente de Customer and Partner Operations, e incorpora un nuevo servicio…",
-    "url": "https://www.eleconomista.es/banca-finanzas/noticias/13669318/11/25/toqio-se-refuerza-para-expandir-las-soluciones-financieras-a-las-empresas.html",
-    "imagen": "https://s03.s3c.es/imag/_v0/1200x655/a/b/b/toqio.jpg",
-    "fecha": "2025-11-30T14:20:14Z"
   },
   {
     "categoria": "tecnologia",
@@ -753,6 +753,38 @@
   },
   {
     "categoria": "ciencia",
+    "titulo": "Agro.- Illa promete responsabilidad y transparencia ante la peste porcina africana",
+    "descripcion": "El presidente de la Generalitat, Salvador Illa, ha prometido responsabilidad y transparencia para afrontar la peste porcina africana detectada en Catalunya: \"Explicaremos en todo momento cuál es la situación, que no es sencilla\".",
+    "url": "https://www.europapress.es/epagro/agricultura/noticia-agro-illa-promete-responsabilidad-transparencia-peste-porcina-africana-20251130213031.html",
+    "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20251130213031_1200.jpg",
+    "fecha": "2025-11-30T20:30:31Z"
+  },
+  {
+    "categoria": "ciencia",
+    "titulo": "Así eran los caballos más antiguos del linaje ibérico que se han encontrado en un yacimiento de Guadalajara",
+    "descripcion": "El Abrigo de la Malia, un lugar que “no deja de sorprender cada campaña de excavación”, ha sacado a la luz los restos más veteranos encontrados hasta el momento de los caballos IBE. Hablamos con Jaime Lira, el investigador que ha analizado su ADN\r\nDE CIENCIA …",
+    "url": "https://www.eldiario.es/castilla-la-mancha/social/caballos-antiguos-linaje-iberico-han-encontrado-yacimiento-guadalajara_1_12782067.html",
+    "imagen": "https://static.eldiario.es/clip/f3e1243b-4c7b-45dd-9e6f-ef4d8100ff11_facebook-watermarked-aspect-ratio_default_0.jpg",
+    "fecha": "2025-11-30T20:05:09Z"
+  },
+  {
+    "categoria": "ciencia",
+    "titulo": "Los blockbusters cada vez parecen más videojuegos triple A. ‘Predator: Badlands’ podría ser perfectamente una extensión de ‘Horizon’",
+    "descripcion": "La industria en la última década ha hecho un notable esfuerzo porque cine y series acaben menos distanciadas, haciendo que el lenguaje audiovisual “espectacular” sea accesible a través de aplanarlo y hacer que las historias sean interminables por afán de fran…",
+    "url": "https://www.espinof.com/estrenos/blockbusters-cada-vez-parecen-videojuegos-triple-a-predator-badlands-podria-ser-perfectamente-extension-horizon",
+    "imagen": "https://i.blogs.es/a8c599/predator-badlands-2025-dan-trachtenberg/840_560.jpeg",
+    "fecha": "2025-11-30T20:00:50Z"
+  },
+  {
+    "categoria": "ciencia",
+    "titulo": "La ciencia de la pérdida de peso y por qué tu cerebro está programado para mantenerte gordo",
+    "descripcion": "Forbes México.\n La ciencia de la pérdida de peso y por qué tu cerebro está programado para mantenerte gordo\n\nCuando alguien pierde peso, el cuerpo reacciona como si fuera una amenaza para la supervivencia: las hormonas del hambre se disparan, los antojos se i…",
+    "url": "https://forbes.com.mx/la-ciencia-de-la-perdida-de-peso-y-por-que-tu-cerebro-esta-programado-para-mantenerte-gordo/",
+    "imagen": "https://cdn.forbes.com.mx/2023/02/volodymyr-hryshchenko-To3xHP9jZM0-unsplash-e1675804438961.jpg",
+    "fecha": "2025-11-30T20:00:00Z"
+  },
+  {
+    "categoria": "ciencia",
     "titulo": "La torre de Bernabé de la Sagrada Família, la única construida por Gaudí, se ilumina por su centenario",
     "descripcion": "La Basílica de la Sagrada Familia ha sido este domingo el escenario de un emotivo homenaje al centenario de la Torre de Bernabé, la única que Antoni Gaudí llegó a ver terminada en vida. Exactamente hace un siglo, el 30 de noviembre de 1925, la torre se alzaba…",
     "url": "https://www.elperiodico.com/es/barcelona/20251130/barcelona-conmemora-100-anos-torre-bernabe-sagrada-familia-gaudi-124295271",
@@ -800,36 +832,28 @@
     "fecha": "2025-11-30T19:00:39Z"
   },
   {
-    "categoria": "ciencia",
-    "titulo": "Materiales blandos con inteligencia direccional: un paso clave para la robótica del futuro",
-    "descripcion": "La robótica blanda ha evolucionado de forma constante en los últimos años, buscando imitar la flexibilidad y adaptabilidad de los seres vivos. Pero hasta ahora, uno de los grandes desafíos ha sido lograr que estos materiales no solo se muevan, sino que respon…",
-    "url": "https://wwwhatsnew.com/2025/11/30/materiales-blandos-con-inteligencia-direccional-un-paso-clave-para-la-robotica-del-futuro/",
-    "imagen": "https://wwwhatsnew.com/wp-content/uploads/2025/07/output1-63.jpg",
-    "fecha": "2025-11-30T19:00:38Z"
+    "categoria": "deportes",
+    "titulo": "Así se burló Sergio Ramos del América",
+    "descripcion": "Enrique López\r\nEl Ciudad de los Deportes vivió una noche que será recordada por mucho tiempo. Rayados de Monterrey marcó un agónico gol y dejó fuera al América en los Cuartos de Final del Apertura 2025, en un duelo cargado dramatismo y un cierre que desató la…",
+    "url": "https://www.excelsior.com.mx/adrenalina/asi-se-burlo-sergio-ramos-del-america/1754740",
+    "imagen": "https://www.excelsior.com.mx/media/pictures/2025/11/30/3426709.jpg",
+    "fecha": "2025-11-30T20:50:01Z"
   },
   {
-    "categoria": "ciencia",
-    "titulo": "Las mujeres en el Paleolítico superior: entre los estereotipos y la ciencia",
-    "descripcion": "Las mujeres del Paleolítico superior no fueron figuras secundarias ni pasivas. La investigación actual muestra vidas complejas, actividades diversas y una participación plena en los ámbitos sociales, simbólicos y tecnológicos de sus comunidades.",
-    "url": "https://muyinteresante.okdiario.com/historia/mujeres-paleolitico-superior-roles-vida-diaria-arqueologia.html",
-    "imagen": "https://muyinteresante.okdiario.com/wp-content/uploads/sites/5/2025/11/Diseno-sin-titulo-55-og.jpg",
-    "fecha": "2025-11-30T18:46:00Z"
+    "categoria": "deportes",
+    "titulo": "‘Corazón y huev..’: Así fue el festejo de Lucas Ocampos por el pase de Rayados a Semifinales",
+    "descripcion": "El gran ausente del ataque de Monterrey, publicó en redes sociales como vivió la vuelta de los Cuartos de Final",
+    "url": "https://www.record.com.mx/futbol/liga-mx/monterrey/corazon-y-huev-asi-fue-el-festejo-de-lucas-ocampos-por-el-pase-de-rayados",
+    "imagen": "https://www.record.com.mx/sites/default/files/articulos/2025/11/30/corazon-y-huev-asi-fue-el-festejo-de-lucas-ocampos-por-el-pase-de-rayados-semifinales.jpg",
+    "fecha": "2025-11-30T20:17:59Z"
   },
   {
-    "categoria": "ciencia",
-    "titulo": "Brecha de genero en la percepción térmica: así explica la Ciencia por qué ellas tienen más frío",
-    "descripcion": "Desde este término: demanda térmica femenina, se expone porque ellas tienen una composición corporal y hormonal que no les conduce a producir tanto calor como a los hombres. Conclusión: siempre \"sienten y tienen\" más frío Leer",
-    "url": "https://www.elmundo.es/ciencia-y-salud/salud/2025/11/30/6929ca71e4d4d8f13c8b45ab.html",
-    "imagen": "https://phantom-elmundo.uecdn.es/7ccddc0506df00d9669fa8273d4376c0/crop/0x0/1198x799/f/webp/assets/multimedia/imagenes/2025/11/28/17643469837506.jpg",
-    "fecha": "2025-11-30T18:29:02Z"
-  },
-  {
-    "categoria": "ciencia",
-    "titulo": "La 'Gran Regresión'",
-    "descripcion": "¿Debemos creer en el progreso? Algunos creen en él; otros, no, sin duda porque el concepto está mal definido. La referencia en esta cuestión es el filósofo británico Karl Popper, quien observaba que el concepto de progreso debía limitarse a la ciencia. Solo l…",
-    "url": "https://www.abc.es/opinion/guy-sorman-gran-regresion-20251130162049-nt.html",
-    "imagen": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2025/11/30/ENFOQUE%20ABC_Gran%20regresion_SORMAN_20251130161922-U05727727266gKv-1024x512@diario_abc.jpg",
-    "fecha": "2025-11-30T18:11:41Z"
+    "categoria": "deportes",
+    "titulo": "\"Responsabilizo al gobierno\": adolescente muere tras ser aplastado por un pesado aro de basquetbol; el trágico hecho quedó grabado",
+    "descripcion": "Un joven de apenas 16 años perdió la vida luego de que tuviera un accidente en unas canchas de basquetbol; el desgarrador momento de su deceso quedó grabado.Los hechos ocurrieron en Rohtak, India, mientras el menor se encontraba llevando a cabo un entrenamien…",
+    "url": "https://www.milenio.com/internacional/joven-muere-aplastado-aro-basquetbol",
+    "imagen": "https://cdn.milenio.com/uploads/media/2025/11/30/joven-muere-en-entrenamiento-de.jpg",
+    "fecha": "2025-11-30T20:00:00Z"
   },
   {
     "categoria": "deportes",
@@ -888,28 +912,44 @@
     "fecha": "2025-11-30T18:31:23Z"
   },
   {
-    "categoria": "deportes",
-    "titulo": "Napoli gana 1-0 ante Roma para igualar al AC Milan en la cima de la Serie A",
-    "descripcion": "ROMA (AP) — El campeón defensor Napoli ganó el domingo 1-0 en casa de su rival Roma para igualar al AC Milan en la cima de la apretada clasificación de la Serie A. David Neres anotó en la primera mitad después de culminar un intercambio con Rasmus Hojlund en …",
-    "url": "https://www.bostonherald.com/2025/11/30/napoli-gana-1-0-ante-roma-para-igualar-al-ac-milan-en-la-cima-de-la-serie-a/",
-    "imagen": "https://www.bostonherald.com/wp-content/uploads/2025/11/SERIE_A_15527.jpg?w=1024&h=683",
-    "fecha": "2025-11-30T18:31:23Z"
+    "categoria": "cultura",
+    "titulo": "Cantabria es la única comunidad que rechazó plazas MIR de Urgencias mientras el Hospital Valdecilla se satura con más de 400 pacientes al día",
+    "descripcion": "La Consejería de Salud cree que no hacen falta más médicos aunque se atiende diariamente a cien personas más: \"Estamos acostumbrados a trabajar en el caos\", dice el presidente de SEMES Luis Prieto\r\nAntecedentes - PSOE, PRC y Vox aprueban aceptar todas las pla…",
+    "url": "https://www.eldiario.es/cantabria/ultimas-noticias/cantabria-unica-comunidad-rechazo-plazas-mir-urgencias-hospital-valdecilla-satura-400-pacientes-dia_1_12773429.html",
+    "imagen": "https://static.eldiario.es/clip/0f27f866-8d57-4886-bf97-d65dd7064a74_facebook-watermarked-aspect-ratio_default_0.jpg",
+    "fecha": "2025-11-30T20:49:51Z"
   },
   {
-    "categoria": "deportes",
-    "titulo": "Lionel Messi y Thomas Müller se reencuentran en la final de la MLS entre Inter Miami y Vancouver",
-    "descripcion": "Por TIM REYNOLDS FORT LAUDERDALE, Florida, EE.UU. (AP) — Thomas Müller sabe exactamente lo que es enfrentarse a Lionel Messi con un trofeo de por medio. Y también sabe lo que se necesita para ganar en esos momentos. La gran final de la MLS 2025 — Messi e Inte…",
-    "url": "https://www.bostonherald.com/2025/11/30/lionel-messi-y-thomas-mller-se-reencuentran-en-la-final-de-la-mls-entre-inter-miami-y-vancouver/",
-    "imagen": "https://www.bostonherald.com/wp-content/uploads/2025/11/LIONEL_MESSI_84314.jpg?w=1024&h=683",
-    "fecha": "2025-11-30T18:24:29Z"
+    "categoria": "cultura",
+    "titulo": "Eduardo Casanova: \"Quería mezclar comedia, vampiras y VIH para abrir un debate\"",
+    "descripcion": "En el Día Mundial de la Lucha contra el SIDA Movistar Plus+ ha decidido estrenar Silencio, la nueva serie dirigida por Eduardo Casanova y protagonizada por Ana Polvorosa, María León, Mariola Fuentes, Leticia Dolera y Omar Ayuso, entre otros. Leer",
+    "url": "https://www.elmundo.es/television/2025/11/30/6929c717fdddffda438b459d.html",
+    "imagen": "https://phantom-elmundo.uecdn.es/eaafaa8e0724a1127035ab3fe70ca1f6/crop/194x0/1814x1080/resize/1200/f/webp/assets/multimedia/imagenes/2025/11/28/17643451615930.jpg",
+    "fecha": "2025-11-30T20:41:17Z"
   },
   {
-    "categoria": "deportes",
-    "titulo": "Los regatistas pontevedreses se llevan el Trofeo Aurelio Fernández Lage de Optimist",
-    "descripcion": "El Cidade da Coruña de Vela Base – Trofeo Aurelio Fernández Lage ya tiene nuevo ganador: José Luis Ríos, del Real Club Náutico de Vigo. El joven regatista se proclamó vencedor de la prueba organizada por el Real Club Náutico de La Coruña, que sirvió como broc…",
-    "url": "https://www.abc.es/deportes/vela/vela-ligera/regatistas-pontevedreses-llevan-trofeo-aurelio-fernandez-lage-20251130192020-nt.html",
-    "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2025/11/30/Cidade%20da%20Coruna-U53148647672ffe-1024x512@diario_abc.JPG",
-    "fecha": "2025-11-30T18:20:25Z"
+    "categoria": "cultura",
+    "titulo": "China aspira a batir récords con el mayor parque de hielo del mundo. Y ya ha comenzado a levantarlo bloque a bloque",
+    "descripcion": "A finales de noviembre, en Harbin, la imagen se repite cada invierno, con una escala que en las últimas ediciones no ha dejado de crecer: grúas, maquinaria y trabajadores comienzan a levantar estructuras sobre una superficie que semanas después se convertirá …",
+    "url": "https://www.xataka.com/ingenieria-y-megaconstrucciones/china-aspira-a-batir-records-mayor-parque-hielo-mundo-ha-comenzado-a-levantarlo-bloque-a-bloque",
+    "imagen": "https://i.blogs.es/ffd7ad/parque-hielo-china/840_560.jpeg",
+    "fecha": "2025-11-30T20:00:50Z"
+  },
+  {
+    "categoria": "cultura",
+    "titulo": "\"Mens sana in corpore sano\" no tiene nada que ver con los lemas de gimnasio: esto es lo que significa realmente la famosa frase latina",
+    "descripcion": "El sentido original de la frase \"Mens sana in corpore sano\", formulada por el autor latino Juvenal, se ha transformado a lo largo de los siglos. Este era su verdadero significado.",
+    "url": "https://muyinteresante.okdiario.com/curiosidades/mens-sana-in-corpore-sano-significado-real-famosa-frase-latina.html",
+    "imagen": "https://muyinteresante.okdiario.com/wp-content/uploads/sites/5/2025/11/30-Portada-og.jpg",
+    "fecha": "2025-11-30T20:00:00Z"
+  },
+  {
+    "categoria": "cultura",
+    "titulo": "Guardianas del yaguareté: tres mujeres que dejaron todo para liderar el esfuerzo por recuperar al gran felino argentino",
+    "descripcion": "En los sitios más amenazados del país, coordinan proyectos claves para salvar una especie en extinción; ayer fue el día de concientización sobre este valioso animal",
+    "url": "https://www.lanacion.com.ar/sociedad/guardianas-del-yaguarete-tres-mujeres-que-dejaron-todo-para-liderar-el-esfuerzo-por-recuperar-al-nid30112025/",
+    "imagen": "https://resizer.glanacion.com/resizer/v2/diana-friederich-magali-longo-y-debora-P2HFTZDUABGSJMTXFGFUNUDN4Q.JPG?auth=8863f3b7ce3e05e2b5dfe837f276eeb971cc2cb2538bf7c0d185c0c3fd2deb11&width=1200&quality=70&smart=false&height=800",
+    "fecha": "2025-11-30T19:50:57Z"
   },
   {
     "categoria": "cultura",
@@ -952,44 +992,28 @@
     "fecha": "2025-11-30T18:57:29Z"
   },
   {
-    "categoria": "cultura",
-    "titulo": "Catalunya rinde homenaje al exilio catalán republicano en México: \"Es impagable la deuda que tenemos con estas personas\"",
-    "descripcion": "\"Nuestras raíces están en Catalunya y nuestros frutos en México; yo tengo dos amores: Catalunya y México, dos culturas que se fundieron y ahora somos al mismo tiempo mexicanos y catalanes\". Con esta frase ha atestiguado su exilio Maria Rosa Duran, hija de un …",
-    "url": "https://www.elperiodico.com/es/politica/20251130/salvador-illa-mexico-acto-homenaje-exiliados-espanoles-franquismo-memoria-democratica-124288757",
-    "imagen": "https://estaticos-cdn.prensaiberica.es/clip/a8348064-5662-4694-aafd-b2df81fd61e3_16-9-discover-aspect-ratio_default_0.jpg",
-    "fecha": "2025-11-30T18:45:53Z"
+    "categoria": "negocios",
+    "titulo": "Valeria Mazza reveló lo más difícil de ver crecer a sus hijos y el rol de Alejandro Gravier para mantenerlos unidos: “Cada vez pasa menos”",
+    "descripcion": "Entre agendas imposibles y distancias geográficas, la top model confesó que es lo más difícil de la maternidad a esta edad.",
+    "url": "https://caras.perfil.com/noticias/celebridades/valeria-mazza-revelo-mas-dificil-ver-crecer-hijos-rol-alejandro-gravier-para-mantenerlos-unidos.phtml",
+    "imagen": "https://fotos.perfil.com/2025/11/19/trim/1140/641/valeria-mazza-y-alejandro-gravier-2140206.jpg",
+    "fecha": "2025-11-30T20:47:00Z"
   },
   {
-    "categoria": "cultura",
-    "titulo": "Toledo se llena de libros: el Casco no solo vive de luces y mercadillos",
-    "descripcion": "En pleno auge de las luces navideñas y los mercadillos que llenan el Casco Histórico, este domingo Toledo volvió a demostrar que la cultura también puede ocupar el centro de la vida urbana. El 'Rastro Literario', organizado por la Asociación Cultural Libros V…",
-    "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/toledo-llena-libros-casco-solo-vive-luces-20251130193450-nt.html",
-    "imagen": "https://s3.abcstatics.com/abc/www/multimedia/espana/2025/11/30/rastrillo03-U71625730581EZJ-1024x512@diario_abc.jpg",
-    "fecha": "2025-11-30T18:34:59Z"
+    "categoria": "negocios",
+    "titulo": "Ahora que ha salido su secuela, volver al primer Moonlighter ha sido uno de mis mayores placeres de este 2025",
+    "descripcion": "Aunque no haya hecho tanto ruido en comparación con otros indies que se han publicado este año, Moonlighter 2 es uno de los lanzamientos más destacados que se ha producido en esta recta final de 2025. A menudo, la expectación por probar una secuela nos lleva …",
+    "url": "https://www.vidaextra.com/aventura-plataformas/ha-salido-su-secuela-volver-al-primer-moonlighter-ha-sido-uno-mis-mayores-placeres-este-2025",
+    "imagen": "https://i.blogs.es/5063e9/moonlighter/840_560.jpeg",
+    "fecha": "2025-11-30T20:30:49Z"
   },
   {
-    "categoria": "cultura",
-    "titulo": "'Tardes de soledad', primera película española en ser elegida la mejor del año por 'Cahiers du Cinema'",
-    "descripcion": "'Tardes de soledad' , del español Albert Serra, ha sido elegida por la publicación francesa 'Cahiers du Cinema' como la mejor película del año . Desde 1951, esta revista, considerada la más importante de la crítica cinematográfica mundial, redacta una lista c…",
-    "url": "https://www.abc.es/play/cine/noticias/tardes-soledad-primera-pelicula-espanola-elegida-mejor-20251130193113-nt.html",
-    "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2025/11/30/1480670938-kUYD--1024x512@diario_abc.JPG",
-    "fecha": "2025-11-30T18:31:16Z"
-  },
-  {
-    "categoria": "cultura",
-    "titulo": "En los países nórdicos también hay un giro hacia la espiritualidad. Hacia la espiritualidad odinista, en concreto",
-    "descripcion": "En un bosque a las afueras de Estocolmo, al caer la tarde, una docena de personas alzan cuernos de hidromiel hacia el cielo mientras una sacerdotisa invoca a Thor. No hay pieles ni cascos con cuernos —eso es invención hollywoodense—. Aquí hay madres de famili…",
-    "url": "https://www.xataka.com/magnet/paises-nordicos-tambien-hay-giro-espiritualidad-espiritualidad-odinista-concreto",
-    "imagen": "https://i.blogs.es/39c5c7/celebracion-/840_560.png",
-    "fecha": "2025-11-30T18:30:49Z"
-  },
-  {
-    "categoria": "cultura",
-    "titulo": "Cataluña expone la oferta de 119 editoriales en la FIL Guadalajara",
-    "descripcion": "Cataluña participa en la Feria del Libro de Guadalajara con 119 editoriales, 71 más que en 2024, la mayoría de ellas representadas en un stand del gobierno catalán y algunas más con espacio propio.Con Barcelona como ciudad invitada, el gobierno catalán vuelve…",
-    "url": "https://www.milenio.com/cultura/fil/cataluna-expone-oferta-119-editoriales-fil-guadalajara",
-    "imagen": "https://cdn.milenio.com/uploads/media/2025/11/30/barcelona-ciudad-invitada-gobierno-catalan.jpg",
-    "fecha": "2025-11-30T18:15:40Z"
+    "categoria": "negocios",
+    "titulo": "Malsines en la cárcel",
+    "descripcion": "¿Qué es un malsín? Un cizañero, un soplón, un delator, un acuseta, acusete o acusica, un chivato, un concitador, un salivoso.",
+    "url": "https://www.libertaddigital.com/opinion/2025-11-30/pedro-de-tena-malsines-en-la-carcel-7326903/",
+    "imagen": "https://s1.staticld.com/2025/11/28/1200/675/abalos-koldo-garcia-04032019-recorte-recorte.jpg",
+    "fecha": "2025-11-30T20:11:15Z"
   },
   {
     "categoria": "negocios",
@@ -1046,30 +1070,6 @@
     "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/varios-comercios-casco-historico-toledo-lanza-ruta-20251130171152-nt.html",
     "imagen": "https://s3.abcstatics.com/abc/www/multimedia/espana/2025/11/30/sellos-U28440378030GZt-1024x512@diario_abc.jpg",
     "fecha": "2025-11-30T16:12:00Z"
-  },
-  {
-    "categoria": "negocios",
-    "titulo": "Este banco cree saber quienes son los culpables de que la gente le de miedo pedir créditos: el efectivo y la informalidad",
-    "descripcion": "Recientemente, la Secretaría de Hacienda y Crédito Público presentó la Política Nacional de Inclusión Financiera 2025-2030. Esta tiene como objetivo fomentar el uso de productos financieros y avanzar hacia la digitalización. El titular de la dependencia, Édga…",
-    "url": "https://www.xataka.com.mx/banca-digital/bbva-cree-que-uso-efectivo-informalidad-frenan-credito-mexico-pide-acelerar-digitalizacion-servicios",
-    "imagen": "https://i.blogs.es/36222f/efectivo/840_560.jpeg",
-    "fecha": "2025-11-30T16:00:50Z"
-  },
-  {
-    "categoria": "negocios",
-    "titulo": "Maduro se debilita al perder aliados en el Caribe y América Latina",
-    "descripcion": "Nicolás Maduro se va quedando solo y debilitado, nada menos que en sus propias narices frente a las turbulentas aguas del mar Caribe tomadas por la fuerza armada de Estados Unidos, donde su aliado y amigo Ralph Consalves , el primer ministro de San Vincent y …",
-    "url": "https://www.abc.es/internacional/maduro-debilita-perder-aliados-caribe-america-latina-20251130165437-nt.html",
-    "imagen": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/11/30/maduro-U00241305745Dhm-1024x512@diario_abc.jpg",
-    "fecha": "2025-11-30T15:54:48Z"
-  },
-  {
-    "categoria": "negocios",
-    "titulo": "Tiroteo en California: Mueren cuatro personas en una reunión familiar en Stockton",
-    "descripcion": "Cuatro personas murieron en un tiroteo dentro de una fiesta familiar.",
-    "url": "https://www.elfinanciero.com.mx/mundo/2025/11/30/tiroteo-en-california-mueren-cuatro-personas-en-una-reunion-familiar-en-stockton/",
-    "imagen": "https://www.elfinanciero.com.mx/resizer/v2/WFH5EFTXXVBZLGIQNKESUR2OPM.jpg?smart=true&auth=74bb424e2b1ed8f6b37c7c0044dd67fb3f7b3662a76f04652b8c2d68573fe4ce&width=1200&height=630",
-    "fecha": "2025-11-30T15:36:42Z"
   },
   {
     "categoria": "economia",
@@ -1233,82 +1233,82 @@
   },
   {
     "categoria": "internacional",
-    "titulo": "Eduardo Mendoza vuela a Guadalajara para pasar el testigo de su Barcelona literaria a las nuevas generaciones",
-    "descripcion": "Llegó Eduardo Mendoza (Barcelona, 1943) con su impecable disfraz de 'gentleman' despistado, desenroscó el tapón de la botella de agua que le esperaba sobre la mesa y, como a Ravi Shankar cuando afinaba el sitar, le llovieron los primeros aplausos. \"Voy a habl…",
-    "url": "https://www.elperiodico.com/es/ocio-y-cultura/20251130/eduardo-mendoza-vuela-guadalajara-pasar-124296298",
-    "imagen": "https://estaticos-cdn.prensaiberica.es/clip/c7d0554d-f74c-4d45-9818-141bb944cf99_16-9-discover-aspect-ratio_default_0.jpg",
-    "fecha": "2025-11-30T19:40:37Z"
+    "titulo": "La agresión de Trump en el Caribe podría violar un fallo judicial de la época victoriana sobre el canibalismo en el mar",
+    "descripcion": "Forbes México.\n La agresión de Trump en el Caribe podría violar un fallo judicial de la época victoriana sobre el canibalismo en el mar\n\nExpertos en derecho marítimo e internacional expresaron su preocupación por la legalidad de los ataques. Y, basándose en u…",
+    "url": "https://forbes.com.mx/la-agresion-de-trump-en-el-caribe-podria-violar-un-fallo-judicial-de-la-epoca-victoriana-sobre-el-canibalismo-en-el-mar/",
+    "imagen": "https://cdn.forbes.com.mx/2025/10/6bec92152f27557ebf2bff842a75420c9fd1c3501.jpg",
+    "fecha": "2025-11-30T21:00:00Z"
   },
   {
     "categoria": "internacional",
-    "titulo": "Por qué si todos viviéramos como Uruguay se frenaría la \"estafa piramidal\" que estamos haciendo con los recursos del planeta",
-    "descripcion": "\"El cambio climático es solo un síntoma, no es el problema principal\", le dice Mathis Wackernagel a BBC Mundo. \"El problema principal es que estamos utilizando demasiados recursos comparado con el tamaño del planeta\", señala el director de Global Footprint Ne…",
-    "url": "https://www.meneame.net/m/actualidad/todos-vivieramos-como-uruguay-frenaria-estafa-piramidal-estamos",
-    "imagen": "https://www.meneame.net/backend/media?type=link&id=4122267&version=0&ts=1764531726&image.webp",
-    "fecha": "2025-11-30T19:39:45Z"
+    "titulo": "Venezuela acusa ante la OPEP+ que EE.UU. busca apropiarse de sus reservas petroleras",
+    "descripcion": "La advertencia se da en medio de un aumento de tensiones bilaterales y nuevas acciones de EE.UU., como la reciente designación del Cartel de los Soles como organización terrorista.",
+    "url": "https://www.latercera.com/mundo/noticia/venezuela-acusa-ante-la-opep-que-eeuu-busca-apropiarse-de-sus-reservas-petroleras/",
+    "imagen": "https://www.latercera.com/resizer/v2/N77MPQKI6BDVLNIVCTNDSRDCKU.png?auth=fee17b8baff4d4dab15fa0171a0ef34be732c7d406d57865ceb3a7cb2d8f06e0&height=630&width=1200&smart=true",
+    "fecha": "2025-11-30T20:57:52Z"
   },
   {
     "categoria": "internacional",
-    "titulo": "La élite de la hípica internacional se cita en Casas Novas",
-    "descripcion": "Los mejores jinetes y amazonas del momento lucharán por conseguir la victoria en el CSI 5*W de A Coruña",
-    "url": "https://www.lavozdegalicia.es/noticia/deportes/2025/11/29/elite-hipica-internacional-cita-casas-novas/00031764437289116604348.htm",
-    "imagen": "https://img.lavdg.com/sc/6QlEJQdmaUQJOQs2UqTBcH5c5q0=/1280x/2025/11/29/00121764432962154295419/Foto/j_20251129_164529000.jpg",
-    "fecha": "2025-11-30T19:36:00Z"
+    "titulo": "España se gusta al segundo partido con Chus Mateo",
+    "descripcion": "La selección española masculina de baloncesto doblegó (90-61) a Georgia este domingo en la segunda jornada de la fase de clasificación para el Mundial 2027, segundo partido también con Chus Mateo en el banquillo que se convirtió en un festival para disfrute d…",
+    "url": "https://www.europapress.es/deportes/baloncesto-00163/noticia-espana-gusta-segundo-partido-chus-mateo-20251130215115.html",
+    "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20251130215115_1200.jpg",
+    "fecha": "2025-11-30T20:51:15Z"
   },
   {
     "categoria": "internacional",
-    "titulo": "La letra chica de la Copa Sudamericana: cuál es el requisito obligatorio que podría dejar afuera a Barracas Central si no lo cumple",
-    "descripcion": "Tras asegurar su clasificación al certamen continental, el club está obligado a cumplir con el reglamento de licencias de Conmebol, que exige a todas las instituciones participantes contar con un plantel femenino inscripto y compitiendo oficialmente en torneo…",
-    "url": "https://442.perfil.com/noticias/futbol/la-letra-chica-de-la-copa-sudamericana-cual-es-el-requisito-obligatorio-que-podria-dejar-afuera-a-barracas-central-si-no-lo-cumple.phtml",
-    "imagen": "https://fotos.perfil.com/2025/08/10/trim/1140/641/barracas-central-vs-aldosivi-2077761.jpg",
-    "fecha": "2025-11-30T19:31:33Z"
+    "titulo": "¡Pérdida millonaria! FC Barcelona se queda sin jugosa cantidad por Vitor Roque",
+    "descripcion": "Flamengo provocó que los Blaugranas se quedaran sin el cobro del bonus por su exjugador",
+    "url": "https://www.record.com.mx/futbol/futbol-internacional/internacionales/perdida-millonaria-fc-barcelona-se-queda-sin-jugosa",
+    "imagen": "https://www.record.com.mx/sites/default/files/articulos/2025/11/30/perdida-millonaria-fc-barcelona-se-queda-sin-jugosa-cantidad-por-vitor-roque.webp",
+    "fecha": "2025-11-30T20:48:18Z"
   },
   {
     "categoria": "internacional",
-    "titulo": "Alexis Vega: el estado del referente del Toluca preocupa en plena liguilla",
-    "descripcion": "Fernando Islas\r\nFue un duro golpe para el campeón Toluca. La baja de Alexis Vega comenzó en la Jornada 15, cuando los Diablos Rojos empataron 2-2 con el Pachuca. El atacante sufrió una lesión muscular de grado II en el semitendinoso del muslo izquierdo, una s…",
-    "url": "https://www.excelsior.com.mx/adrenalina/alexis-vega-el-estado-del-referente-del-toluca-preocupa-en-plena-liguilla/1754728",
-    "imagen": "https://www.excelsior.com.mx/media/pictures/2025/11/30/3426645.jpg",
-    "fecha": "2025-11-30T19:28:00Z"
+    "titulo": "Mendoza destaca la \"transfusión de sangre nueva\" que supuso el 'boom latinoamericano' para Barcelona",
+    "descripcion": "El escritor barcelonés Eduardo Mendoza ha inaugurado este domingo el Salón Literario de la Feria Internacional del Libro (FIL) de Guadalajara (México) con una irónica historia de la ciudad de Barcelona, de los íberos hasta los 'expats', en la que ha destacado…",
+    "url": "https://www.europapress.es/catalunya/noticia-mendoza-destaca-transfusion-sangre-nueva-supuso-boom-latinoamericano-barcelona-20251130214355.html",
+    "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20251130214355_1200.jpg",
+    "fecha": "2025-11-30T20:43:55Z"
   },
   {
     "categoria": "internacional",
-    "titulo": "Vicepresidenta de Venezuela anuncia plan de repatriación ante bloqueo aéreo de Estados Unidos",
-    "descripcion": "Según Delcy Rodríguez, el plan busca facilitar el retorno de los venezolanos afectados, así como “los itinerarios de salida de aquellos que deban viajar fuera de nuestro territorio”.",
-    "url": "https://www.latercera.com/mundo/noticia/vicepresidenta-de-venezuela-anuncia-plan-de-repatriacion-ante-bloqueo-aereo-de-estados-unidos/",
-    "imagen": "https://www.latercera.com/resizer/v2/C357IVG47NWT3LXMGEFHAI4CHU.jpg?auth=9832c85e71d8b308ef22b5fcf0e3a2fcbbc7e3ac41e265354371bb2553037645&height=630&width=1200&smart=true",
-    "fecha": "2025-11-30T19:24:19Z"
+    "titulo": "La opciones de la dictadura chavista ante un ataque de EE.UU. y por qué su poder militar está tan debilitado",
+    "descripcion": "El cierre del espacio aéreo dispuesto por Trump intensifica la presión sobre Maduro y expone el deterioro del aparato militar venezolano, las estrategias de resistencia del chavismo y la presencia de otros actores armados",
+    "url": "https://www.lanacion.com.ar/el-mundo/la-opciones-de-la-dictadura-chavista-ante-un-ataque-de-eeuu-y-por-que-su-poder-militar-esta-tan-nid30112025/",
+    "imagen": "https://resizer.glanacion.com/resizer/v2/para-venezuela-el-cerco-maritimo-y-ahora-UWF6WVN3C5HGVKNMDZOINGF3JM.JPG?auth=2ff89d5dc37a787e8b44f5c41ebc8c164b6f91b7d5b3a1c72471a630061b483c&width=1200&quality=70&smart=false&height=800",
+    "fecha": "2025-11-30T20:38:08Z"
   },
   {
     "categoria": "internacional",
-    "titulo": "Dos goles de Lautaro Martínez para la victoria de Inter por la Serie A: “Dejo que los demás hablen”",
-    "descripcion": "El equipo de Chivu venía de dos derrotas consecutivas, una de ellas en el clásico ante Milan",
-    "url": "https://www.lanacion.com.ar/deportes/futbol/dos-goles-de-lautaro-martinez-para-la-victoria-de-inter-por-la-serie-a-dejo-que-los-demas-hablen-nid30112025/",
-    "imagen": "https://resizer.glanacion.com/resizer/v2/lautaro-martinez-festeja-el-primero-de-sus-dos-AA7NKF6JQBFILEJUSXX4YR4GKI.JPG?auth=6bdb4fe669b6b6af3c0b4eba235eda1d277edb504a8b6a7f673129d04180df80&width=1200&quality=70&smart=false&height=800",
-    "fecha": "2025-11-30T19:19:11Z"
+    "titulo": "Del shock por la lesión de Osobor al espectáculo: la España de Chus Mateo se venga a lo grande de Georgia",
+    "descripcion": "El segundo desafío de la era Chus Mateo era otra historia. Nada de un rival de segunda fila como Dinamarca. Enfrente, un ogro de últimamente, Georgia y sus guerreros curtidos en...",
+    "url": "https://www.elmundo.es/deportes/baloncesto/2025/11/30/692c8aabe4d4d857538b4593.html",
+    "imagen": "https://phantom-elmundo.uecdn.es/d9443d52b0f5ab65d09bf08948272c19/crop/0x0/3072x2048/resize/1200/f/webp/assets/multimedia/imagenes/2025/11/30/17645332921681.jpg",
+    "fecha": "2025-11-30T20:31:08Z"
   },
   {
     "categoria": "internacional",
-    "titulo": "Las 'Guerreras' reconducen su Mundial",
-    "descripcion": "La selección española femenina de balonmano se impuso (26-31) a la de Montenegro este domingo en el SWT Arena de Trier (Alemania) para sellar su billete a la siguiente ronda del Mundial 2025 y como primera del Grupo D, un paso al frente para volver a confiar …",
-    "url": "https://www.europapress.es/deportes/balonmano-00167/noticia-guerreras-reconducen-mundial-20251130201536.html",
-    "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20251130201536_1200.jpg",
-    "fecha": "2025-11-30T19:15:36Z"
+    "titulo": "La Asamblea Nacional de Venezuela investigará las \"ejecuciones extrajudiciales\" de EEUU en el Caribe",
+    "descripcion": "El presidente de la Asamblea Nacional de Venezuela, Jorge Rodríguez, ha anunciado este domingo la puesta en marcha de una investigación oficial sobre las \"ejecuciones extrajudiciales\" cometidas por fuerzas estadounidenses en el mar Caribe desde el pasado 2 de…",
+    "url": "https://www.europapress.es/internacional/noticia-asamblea-nacional-venezuela-investigara-ejecuciones-extrajudiciales-eeuu-caribe-20251130212154.html",
+    "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20251130212154_1200.jpg",
+    "fecha": "2025-11-30T20:21:54Z"
   },
   {
     "categoria": "internacional",
-    "titulo": "El papa León XIV llega a Líbano con un llamado a la \"reconciliación\"",
-    "descripcion": "León XIV fue recibido en el aeropuerto por el presidente Joseph Aoun —el único jefe de Estado cristiano del mundo árabe—, un gesto simbólico en un país que decretó dos días festivos con motivo de la visita papal.",
-    "url": "https://peru21.pe/mundo/el-papa-leon-xiv-llega-libano-con-un-llamado-la-reconciliacion/",
-    "imagen": "http://peru21.pe/sites/default/efsfiles/styles/amp_1200x675_16_9/public/2025-11/papa-leon-en-libano.jpg?itok=pSxaj9yM",
-    "fecha": "2025-11-30T19:11:49Z"
+    "titulo": "Aitana Bonmatí, baja para la final de la Liga de Naciones por una fractura en el peroné izquierdo",
+    "descripcion": "La centrocampista sufrió \"una fractura en el peroné izquierdo\" en el entrenamiento de esta mañana",
+    "url": "https://www.elconfidencial.com/deportes/2025-11-30/aitana-bonmati-baja-para-la-final-de-la-liga-de-naciones-por-una-fractura-en-el-perone-izquierdo_4257664/",
+    "imagen": "https://images.ecestaticos.com/qYCM1bE4I-qQ1-ynn8IJWneEJ2o=/0x0:2272x1515/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/0f8/bb9/8aa/0f8bb98aac19b470f111bb5eb40a0676.jpg",
+    "fecha": "2025-11-30T20:20:00Z"
   },
   {
     "categoria": "internacional",
-    "titulo": "Mueren más de 400 personas tras las devastadoras inundaciones registradas en Indonesia",
-    "descripcion": "Los equipos de recate en Indonesia buscan a cientos de personas reportadas como desaparecidas, muchas de las cuales podrían estar sepultadas bajo deslizamientos de tierra, después de que lluvias ciclónicas causaran inundaciones catastróficas hace casi una sem…",
-    "url": "https://www.bbc.com/mundo/articles/c709elze6ywo",
-    "imagen": "https://ichef.bbci.co.uk/news/1024/branded_mundo/63c8/live/ec2e8510-ce07-11f0-8c06-f5d460985095.jpg",
-    "fecha": "2025-11-30T19:11:33Z"
+    "titulo": "Centros DIF para personas con discapacidad, ¿Cuántos son y qué terapias ofrecen?",
+    "descripcion": "Fernando Dávila\r\nEn el marco del Día Internacional de las Personas con Discapacidad, que se conmemora el 3 de diciembre, la titular del Sistema Nacional para el Desarrollo Integral de la Familia (SNDIF), María del Rocío García Pérez, reitera su compromiso con…",
+    "url": "https://www.excelsior.com.mx/nacional/centros-y-servicios-del-sndif-en-mexico-cuantos-son-y-que-terapias-ofrecen/1754735",
+    "imagen": "https://www.excelsior.com.mx/media/pictures/2025/11/30/3426687.jpg",
+    "fecha": "2025-11-30T20:17:54Z"
   }
 ]

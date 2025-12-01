@@ -1,6 +1,30 @@
 [
   {
     "categoria": "videojuegos",
+    "titulo": "Revisitando Jill of the Jungle, el último juego diseñado por Tim Sweeney (ENG)",
+    "descripcion": "¡Vaya, 1992 fue un año muy diferente para los videojuegos! Jill of the Jungle, de Epic MegaGames, lo ilustra tan bien como cualquier otro título de la época. Diseñado y programado por Tim Sweeney, director ejecutivo de Epic Games, el juego tenía como objetivo…",
+    "url": "https://www.meneame.net/m/tecnología/revisitando-jill-of-the-jungle-ultimo-juego-disenado-tim-sweeney",
+    "imagen": "https://www.meneame.net//cdn.mnmstatic.net/img/mnm/logo-350x350.png",
+    "fecha": "2025-11-30T20:26:57Z"
+  },
+  {
+    "categoria": "videojuegos",
+    "titulo": "Los precios de la memoria RAM se fueron a las nubes y ahora es más barato comprarte hasta un PS5 Pro que actualizar tu PC",
+    "descripcion": "Lo que antes se consideraba un componente secundario, que se compraba casi al final de armar una PC Gamer, se ha transformado en un artículo con precios disparados que llegan a cuadruplicar su valor de hace unos años. Hablamos de las memorias RAM, esenciales …",
+    "url": "https://www.xataka.com.mx/videojuegos/precios-memoria-ram-se-fueron-a-nubes-ahora-barato-comprarte-ps5-pro-que-actualizar-tu-pc",
+    "imagen": "https://i.blogs.es/638b80/luan-gjokaj-y4_xz3cs96w-unsplash/840_560.jpeg",
+    "fecha": "2025-11-30T20:00:50Z"
+  },
+  {
+    "categoria": "videojuegos",
+    "titulo": "Los blockbusters cada vez parecen más videojuegos triple A. ‘Predator: Badlands’ podría ser perfectamente una extensión de ‘Horizon’",
+    "descripcion": "La industria en la última década ha hecho un notable esfuerzo porque cine y series acaben menos distanciadas, haciendo que el lenguaje audiovisual “espectacular” sea accesible a través de aplanarlo y hacer que las historias sean interminables por afán de fran…",
+    "url": "https://www.espinof.com/estrenos/blockbusters-cada-vez-parecen-videojuegos-triple-a-predator-badlands-podria-ser-perfectamente-extension-horizon",
+    "imagen": "https://i.blogs.es/a8c599/predator-badlands-2025-dan-trachtenberg/840_560.jpeg",
+    "fecha": "2025-11-30T20:00:50Z"
+  },
+  {
+    "categoria": "videojuegos",
     "titulo": "Google Pixel 10 Pro 128GB smartphone – 764,15 € – 30% descuento",
     "descripcion": "Para conseguir el precio promocionado del GOOGLE PIXEL 10 PRO 128GB es imprescindible INICIAR SESIÓN EN AMAZON y luego APLICAR EL CÓDIGO DE DESCUENTO GOOGLE15 en el proceso de compra.Google Pixel 10 Pro de 128 GB con la IA más avanzada de la familia Pixel lle…",
     "url": "https://www.blogdechollos.com/google-pixel-10-pro-128gb-smartphone-76415-e-30-descuento/",
@@ -54,29 +78,5 @@
     "url": "https://es.ign.com/movistar/224027/news/para-mi-esta-serie-es-la-que-mejor-equilibra-la-comedia-y-el-drama-la-tienes-completa-en-streaming-y",
     "imagen": "https://sm.ign.com/t/ign_es/screenshot/default/fiona_wzu4.1200.jpg",
     "fecha": "2025-11-30T16:00:56Z"
-  },
-  {
-    "categoria": "videojuegos",
-    "titulo": "#ZNCine – Las noticias de la semana #5 Noviembre 2025",
-    "descripcion": "Lo más destacado de la actualidad de cine y la televisión esta semana: 28 años después: El templo de los huesos, El exorcista, How to make a Killing, Dead Man’s Wire, Assassin´s Creed, Far Cry, Amadeus y mucho más.",
-    "url": "https://www.zonanegativa.com/zncine-las-noticias-de-la-semana-5-noviembre-2025/",
-    "imagen": "https://www.zonanegativa.com/imagenes/2025/11/Assassins.jpg",
-    "fecha": "2025-11-30T16:00:18Z"
-  },
-  {
-    "categoria": "videojuegos",
-    "titulo": "La cuarta edición del salón del videojuego en catalán, SAGA, bate récords, con 9.000 visitas",
-    "descripcion": "Un total de 9.000 personas han asistido desde el pasado viernes hasta este domingo a la cuarta edición del salón SAGA, dedicado al videojuego en catalán, que ha batido récords de participación y ha reunido a 70 expositores entre empresas, clubes y centros for…",
-    "url": "https://www.elperiodico.com/es/sociedad/20251130/salon-saga-videojuego-catalan-hospitalet-124290680",
-    "imagen": "https://estaticos-cdn.prensaiberica.es/clip/86584ace-458f-4931-9f31-e30caccc34b7_16-9-discover-aspect-ratio_default_0.jpg",
-    "fecha": "2025-11-30T15:39:30Z"
-  },
-  {
-    "categoria": "videojuegos",
-    "titulo": "Después de 30 años, se ha descubierto un nuevo truco en Super Mario 64 que romperá los mejores tiempos de los speedruns",
-    "descripcion": "De todos los videojuegos que existen a los que la comunidad de speedruns le dedica parte de su tiempo, Super Mario 64 es uno de los más populares y de los que cuenta con una mayor cantidad de jugadores que han tratado de superarlo en un tiempo récord. Con cas…",
-    "url": "https://www.vidaextra.com/aventura-plataformas/despues-30-anos-se-ha-descubierto-nuevo-truco-super-mario-64-que-rompera-mejores-tiempos-speedruns",
-    "imagen": "https://i.blogs.es/e38190/sm64/840_560.jpeg",
-    "fecha": "2025-11-30T15:01:27Z"
   }
 ]

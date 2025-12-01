@@ -1,6 +1,22 @@
 [
   {
     "categoria": "policiales",
+    "titulo": "Jean Paul Pineda fue detenido por “violación de morada” y VIF psicológica: Formalización será este lunes",
+    "descripcion": "El exfutbolista Jean Paul Pineda fue detenido por “violación de morada” y “violencia intrafamiliar de carácter psicológico”, siendo trasladado a una comisaría. Este lunes 1 de diciembre se realizará la audiencia de control de detención en el Juzgado de Garant…",
+    "url": "https://www.cnnchile.com/pais/jean-paul-pineda-fue-detenido-por-violacion-de-morada-y-vif-psicologica-formalizacion-sera-este-lunes_20251130/",
+    "imagen": "https://media.cnnchile.com/sites/2/2025/11/A_UNO_1688576-e1764544133221.jpg",
+    "fecha": "2025-11-30T20:18:07Z"
+  },
+  {
+    "categoria": "policiales",
+    "titulo": "Estado Mayor y Policía capitalina tenían identificados a 75 grupos en toma de protesta de EPN",
+    "descripcion": "El ritual republicano marcó la agenda del 1 de diciembre de 2012: Felipe Calderón entregaría la banda presidencial a Enrique Peña Nieto y el PRI regresaba al poder después de doce años de gobiernos panistas. La Ciudad de México se convertiría en un polvorín, …",
+    "url": "https://www.milenio.com/policia/operativo-secreto-blindo-cdmx-en-toma-de-protesta-de-pena-nieto",
+    "imagen": "https://cdn.milenio.com/uploads/media/2025/11/30/enrique-pena-nieto-toma-protesta.jpg",
+    "fecha": "2025-11-30T19:59:00Z"
+  },
+  {
+    "categoria": "policiales",
     "titulo": "Hombre asesinado de varios disparos en el Cerro; policías lo encontraron en la calle",
     "descripcion": "La víctima tenía “pocos signos vitales” y “abundante sangrado a la altura del dorso”; fue hospitalizado de urgencia, pero falleció luego.",
     "url": "https://www.montevideo.com.uy/Noticias/Hombre-asesinado-de-varios-disparos-en-el-Cerro-policias-lo-encontraron-en-la-calle-uc944965",
@@ -62,21 +78,5 @@
     "url": "https://www.latercera.com/nacional/noticia/motociclista-argentino-fallece-tras-sufrir-accidente-de-transito-en-ruta-60-ch-entre-quilpue-y-vina-del-mar/",
     "imagen": "https://www.latercera.com/resizer/v2/CPYZEY7D5VGVJKWBSB2EBCDH6U.jpg?auth=5e46227c32e4df1263ab5e5159e28c83bb14bfa42d75a4b73a8fea8c5bb74265&height=630&width=1200&smart=true",
     "fecha": "2025-11-30T14:42:20Z"
-  },
-  {
-    "categoria": "policiales",
-    "titulo": "Pilar Alegría, sobre la manifestación del PP: \"Aún no les he visto manifestarse por la sanidad pública\"",
-    "descripcion": "En la semana en la que han entrado en prisión el exministro de Transportes, José Luis Ábalos, y su asesor, Koldo García, y coincidiendo con la manifestación convocada por el PP y Vox en Madrid para pedir elecciones, la portavoz del Gobierno y Ministra de Educ…",
-    "url": "https://www.elperiodico.com/es/politica/20251130/pilar-alegria-manifestacion-pp-les-124289530",
-    "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f9690458-69e3-4416-88e4-03019f9f9423_16-9-discover-aspect-ratio_default_0.jpg",
-    "fecha": "2025-11-30T14:41:23Z"
-  },
-  {
-    "categoria": "policiales",
-    "titulo": "Al menos 4 muertos y 10 heridos en un tiroteo cuando celebraban un cumpleaños infantil en California",
-    "descripcion": "Las autoridades pertinentes han pedido la colaboración ciudadana para identificar y detener al autor.\nMás información: Así fue la persecución del afgano que atacó a dos soldados de la Guardia Nacional en Washington antes de disparar",
-    "url": "https://www.elespanol.com/mundo/20251130/muertos-heridos-tiroteo-celebraban-cumpleanos-infantil-california/1003744036162_0.html",
-    "imagen": "https://s3.elespanol.com/2025/11/30/actualidad/1003744036168_260233004_1706x960.jpg?fmt=jpeg",
-    "fecha": "2025-11-30T14:32:20Z"
   }
 ]

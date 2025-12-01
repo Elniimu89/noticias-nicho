@@ -1,51 +1,77 @@
+/* Estilo general */
 body {
   font-family: Arial, sans-serif;
   margin: 0;
-  background: #f2f2f2;
+  background: #f7f7f7;
 }
 
+/* Layout */
 .layout {
   display: flex;
+  min-height: 100vh;
 }
 
+/* Header / Título */
+.titulo-principal h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 48px;
+  text-align: center;
+  padding: 30px;
+  margin: 0;
+  background-image: url('https://i.imgur.com/pERF9Kz.jpg'); /* Fondo tipo collage */
+  background-size: cover;
+  background-position: center;
+  color: black;
+  border-radius: 12px;
+  border: 2px solid #333;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+/* Menú lateral izquierdo */
 aside {
-  width: 220px;
-  background: #333;
-  color: white;
-  height: 100vh;
+  width: 260px;
+  background: #fff;
   padding: 20px;
-  box-sizing: border-box;
+  box-shadow: 2px 0 5px rgba(0,0,0,0.1);
 }
 
 aside h2 {
-  margin-top: 0;
-  font-size: 18px;
+  font-size: 1.2em;
+  margin-bottom: 15px;
 }
 
-aside ul {
+#menu-categorias {
   list-style: none;
   padding: 0;
 }
 
-aside ul li {
-  margin: 10px 0;
+#menu-categorias li {
+  margin-bottom: 10px;
 }
 
-aside ul li a {
+#menu-categorias button {
+  width: 100%;
+  padding: 12px;
+  background-color: #800020; /* Color vino */
   color: white;
-  text-decoration: none;
+  border: none;
+  border-radius: 8px;
   font-weight: bold;
+  cursor: pointer;
+  transition: background 0.3s;
 }
 
-aside ul li a:hover {
-  text-decoration: underline;
+#menu-categorias button:hover {
+  background-color: #a52a2a;
 }
 
+/* Contenido principal */
 main {
   flex: 1;
-  padding: 20px;
+  padding: 30px;
 }
 
+/* Contenedor de noticias */
 #noticias {
   display: flex;
   flex-wrap: wrap;
@@ -53,6 +79,7 @@ main {
   justify-content: center;
 }
 
+/* Tarjeta de cada noticia */
 .noticia {
   background: white;
   padding: 10px;
@@ -60,7 +87,23 @@ main {
   width: 300px;
   box-shadow: 0 0 5px rgba(0,0,0,0.1);
 }
+
 .noticia img {
   width: 100%;
   height: auto;
+  border-radius: 5px;
+}
+
+.noticia h3 {
+  margin: 10px 0 5px;
+  font-size: 1.1em;
+}
+
+.noticia p {
+  font-size: 0.95em;
+}
+
+.noticia .fecha {
+  font-size: 0.8em;
+  color: gray;
 }

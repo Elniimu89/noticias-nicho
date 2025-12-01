@@ -1,6 +1,30 @@
 [
   {
     "categoria": "deportes",
+    "titulo": "Así se burló Sergio Ramos del América",
+    "descripcion": "Enrique López\r\nEl Ciudad de los Deportes vivió una noche que será recordada por mucho tiempo. Rayados de Monterrey marcó un agónico gol y dejó fuera al América en los Cuartos de Final del Apertura 2025, en un duelo cargado dramatismo y un cierre que desató la…",
+    "url": "https://www.excelsior.com.mx/adrenalina/asi-se-burlo-sergio-ramos-del-america/1754740",
+    "imagen": "https://www.excelsior.com.mx/media/pictures/2025/11/30/3426709.jpg",
+    "fecha": "2025-11-30T20:50:01Z"
+  },
+  {
+    "categoria": "deportes",
+    "titulo": "‘Corazón y huev..’: Así fue el festejo de Lucas Ocampos por el pase de Rayados a Semifinales",
+    "descripcion": "El gran ausente del ataque de Monterrey, publicó en redes sociales como vivió la vuelta de los Cuartos de Final",
+    "url": "https://www.record.com.mx/futbol/liga-mx/monterrey/corazon-y-huev-asi-fue-el-festejo-de-lucas-ocampos-por-el-pase-de-rayados",
+    "imagen": "https://www.record.com.mx/sites/default/files/articulos/2025/11/30/corazon-y-huev-asi-fue-el-festejo-de-lucas-ocampos-por-el-pase-de-rayados-semifinales.jpg",
+    "fecha": "2025-11-30T20:17:59Z"
+  },
+  {
+    "categoria": "deportes",
+    "titulo": "\"Responsabilizo al gobierno\": adolescente muere tras ser aplastado por un pesado aro de basquetbol; el trágico hecho quedó grabado",
+    "descripcion": "Un joven de apenas 16 años perdió la vida luego de que tuviera un accidente en unas canchas de basquetbol; el desgarrador momento de su deceso quedó grabado.Los hechos ocurrieron en Rohtak, India, mientras el menor se encontraba llevando a cabo un entrenamien…",
+    "url": "https://www.milenio.com/internacional/joven-muere-aplastado-aro-basquetbol",
+    "imagen": "https://cdn.milenio.com/uploads/media/2025/11/30/joven-muere-en-entrenamiento-de.jpg",
+    "fecha": "2025-11-30T20:00:00Z"
+  },
+  {
+    "categoria": "deportes",
     "titulo": "Campañas contra el régimen nos fortalecen: Sheinbaum",
     "descripcion": "Arturo Páramo\r\nDesde Morelos, la presidenta Claudia Sheinbaum afirmó que las campañas orquestadas en contra de su administración en lugar de debilitarla, la fortalecen.\r\n\nTE PUEDE INTERESAR: Seguiremos aumentando el salario mínimo: Sheinbaum\r\n\nEn su discurso,…",
     "url": "https://www.excelsior.com.mx/nacional/campanas-contra-el-regimen-nos-fortalecen-sheinbaum/1754730",
@@ -54,29 +78,5 @@
     "url": "https://www.bostonherald.com/2025/11/30/con-doblete-de-lautaro-martnez-el-inter-vence-2-0-a-pisa-en-la-serie-a/",
     "imagen": "https://www.bostonherald.com/wp-content/uploads/2025/11/SERIE_A_15527.jpg?w=1024&h=683",
     "fecha": "2025-11-30T18:31:23Z"
-  },
-  {
-    "categoria": "deportes",
-    "titulo": "Napoli gana 1-0 ante Roma para igualar al AC Milan en la cima de la Serie A",
-    "descripcion": "ROMA (AP) — El campeón defensor Napoli ganó el domingo 1-0 en casa de su rival Roma para igualar al AC Milan en la cima de la apretada clasificación de la Serie A. David Neres anotó en la primera mitad después de culminar un intercambio con Rasmus Hojlund en …",
-    "url": "https://www.bostonherald.com/2025/11/30/napoli-gana-1-0-ante-roma-para-igualar-al-ac-milan-en-la-cima-de-la-serie-a/",
-    "imagen": "https://www.bostonherald.com/wp-content/uploads/2025/11/SERIE_A_15527.jpg?w=1024&h=683",
-    "fecha": "2025-11-30T18:31:23Z"
-  },
-  {
-    "categoria": "deportes",
-    "titulo": "Lionel Messi y Thomas Müller se reencuentran en la final de la MLS entre Inter Miami y Vancouver",
-    "descripcion": "Por TIM REYNOLDS FORT LAUDERDALE, Florida, EE.UU. (AP) — Thomas Müller sabe exactamente lo que es enfrentarse a Lionel Messi con un trofeo de por medio. Y también sabe lo que se necesita para ganar en esos momentos. La gran final de la MLS 2025 — Messi e Inte…",
-    "url": "https://www.bostonherald.com/2025/11/30/lionel-messi-y-thomas-mller-se-reencuentran-en-la-final-de-la-mls-entre-inter-miami-y-vancouver/",
-    "imagen": "https://www.bostonherald.com/wp-content/uploads/2025/11/LIONEL_MESSI_84314.jpg?w=1024&h=683",
-    "fecha": "2025-11-30T18:24:29Z"
-  },
-  {
-    "categoria": "deportes",
-    "titulo": "Los regatistas pontevedreses se llevan el Trofeo Aurelio Fernández Lage de Optimist",
-    "descripcion": "El Cidade da Coruña de Vela Base – Trofeo Aurelio Fernández Lage ya tiene nuevo ganador: José Luis Ríos, del Real Club Náutico de Vigo. El joven regatista se proclamó vencedor de la prueba organizada por el Real Club Náutico de La Coruña, que sirvió como broc…",
-    "url": "https://www.abc.es/deportes/vela/vela-ligera/regatistas-pontevedreses-llevan-trofeo-aurelio-fernandez-lage-20251130192020-nt.html",
-    "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2025/11/30/Cidade%20da%20Coruna-U53148647672ffe-1024x512@diario_abc.JPG",
-    "fecha": "2025-11-30T18:20:25Z"
   }
 ]

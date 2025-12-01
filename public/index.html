@@ -5,23 +5,43 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Noticias al Día</title>
   <link rel="stylesheet" href="styles.css">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
 </head>
 <body>
-  <div class="layout">
-    <!-- Menú lateral -->
+  <header>
+    <div class="titulo-principal">
+      <h1>Noticias de Hoy</h1>
+    </div>
+  </header>
+
+  <main class="layout">
+    <!-- Menú lateral con categorías -->
     <aside>
       <h2>Categorías</h2>
       <ul id="menu-categorias">
-        <!-- Se insertan dinámicamente -->
+        <li><button onclick="filtrarCategoria('todas')">Todas las noticias</button></li>
+        <li><button onclick="filtrarCategoria('policiales')">Policiales</button></li>
+        <li><button onclick="filtrarCategoria('espectaculos')">Espectáculos</button></li>
+        <li><button onclick="filtrarCategoria('videojuegos')">Videojuegos</button></li>
+        <li><button onclick="filtrarCategoria('peliculas')">Películas</button></li>
+        <li><button onclick="filtrarCategoria('series')">Series</button></li>
+        <li><button onclick="filtrarCategoria('politica')">Política</button></li>
+        <li><button onclick="filtrarCategoria('medio ambiente')">Medio Ambiente</button></li>
+        <li><button onclick="filtrarCategoria('salud')">Salud</button></li>
+        <li><button onclick="filtrarCategoria('finanzas')">Finanzas</button></li>
+        <li><button onclick="filtrarCategoria('ciencia')">Ciencia</button></li>
+        <li><button onclick="filtrarCategoria('deportes')">Deportes</button></li>
+        <li><button onclick="filtrarCategoria('educacion')">Educación</button></li>
+        <li><button onclick="filtrarCategoria('cultura')">Cultura</button></li>
+        <li><button onclick="filtrarCategoria('internacional')">Internacional</button></li>
       </ul>
     </aside>
 
     <!-- Noticias -->
-    <main>
-      <h1>📰 Noticias al Día</h1>
-      <div id="noticias"></div>
-    </main>
-  </div>
+    <section id="noticias">
+      <!-- Se cargan dinámicamente -->
+    </section>
+  </main>
 
   <script src="scripts.js"></script>
 </body>

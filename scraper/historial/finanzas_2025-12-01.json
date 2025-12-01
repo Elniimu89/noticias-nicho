@@ -1,6 +1,14 @@
 [
   {
     "categoria": "finanzas",
+    "titulo": "Bono navideño en Florida: quiénes recibirán el pago extra de 1000 dólares en Hialeah",
+    "descripcion": "Descubre quiénes recibirán el bono navideño de 1000 dólares en una ciudad de Florida y por qué la medida generó polémica tras las elecciones locales.",
+    "url": "https://www.lanacion.com.ar/estados-unidos/florida/bono-navideno-en-florida-quienes-recibiran-el-pago-extra-de-1000-dolares-en-hialeah-nid27112025/",
+    "imagen": "https://resizer.glanacion.com/resizer/v2/la-administracion-de-hialeah-anuncio-un-bono-CJBAFXIW3JGEPP6CGTC7M76ERU.jpg?auth=9b9f227b03665a28249877a26036f03c4ad29ee7526ec7c60ff5bbb1e3b39a6f&width=1200&quality=70&smart=false&height=800",
+    "fecha": "2025-11-30T21:00:00Z"
+  },
+  {
+    "categoria": "finanzas",
     "titulo": "\"¿Estáis locos?\": para el jefe de Nvidia es inadmisible que sus propios empleados recomienden usar menos la IA",
     "descripcion": "<![CDATA[<p>La inteligencia artificial (IA) ha llegado en forma de tsunami para la vida personal y laboral de cada vez más personas. No paras de leer, escuchar y ver mensajes de gurús tecnológicos y financieros sobre el vuelco que supone y supondrá la IA en t…",
     "url": "https://www.huffingtonpost.es/tecnologia/estais-locos-jefe-nvidia-inadmisible-propios-empleados-recomienden-ia.html",
@@ -70,13 +78,5 @@
     "url": "https://www.elfinanciero.com.mx/economia/2025/11/30/deuda-de-pemex-estas-son-las-cifras-de-petroleos-mexicanos-que-dan-miedo/",
     "imagen": "https://www.elfinanciero.com.mx/resizer/v2/ZYAR4QB6LNEJVPV4QAPHS6ZDRE.png?smart=true&auth=8363a80c5468454767d17199e56061ddc8c48859cbcdae46320e94c32b19d666&width=1200&height=630",
     "fecha": "2025-11-30T15:07:32Z"
-  },
-  {
-    "categoria": "finanzas",
-    "titulo": "Toqio se refuerza para expandir las soluciones financieras a las empresas",
-    "descripcion": "Toqio, la plataforma de tecnología especializada en dotar a las empresas de soluciones financieras, se refuerza para crecer. La entidad ficha a Enrique Cárcamo Wucherpfennig como vicepresidente de Customer and Partner Operations, e incorpora un nuevo servicio…",
-    "url": "https://www.eleconomista.es/banca-finanzas/noticias/13669318/11/25/toqio-se-refuerza-para-expandir-las-soluciones-financieras-a-las-empresas.html",
-    "imagen": "https://s03.s3c.es/imag/_v0/1200x655/a/b/b/toqio.jpg",
-    "fecha": "2025-11-30T14:20:14Z"
   }
 ]

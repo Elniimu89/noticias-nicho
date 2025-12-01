@@ -1,36 +1,34 @@
 document.addEventListener("DOMContentLoaded", () => {
-  const categorias = [
-    "policiales", "espectaculos", "videojuegos", "peliculas", "series",
-    "politica", "medio ambiente", "salud", "finanzas", "tecnologia",
-    "ciencia", "deportes", "internacionales", "educacion", "cultura"
-  ];
-
-  const menu = document.getElementById("menu-categorias");
-  categorias.forEach((cat) => {
-    const li = document.createElement("li");
-    li.innerHTML = `<a href="#" onclick="cargarCategoria('${cat}')">${capitalizar(cat)}</a>`;
-    menu.appendChild(li);
-  });
-
-  // Cargar por defecto "tecnologia"
-  cargarCategoria("tecnologia");
+  fetch("data/noticias.json")
+    .then((res) => res.json())
+    .then((noticias) => {
+      window.todasLasNoticias = noticias;
+      mostrarNoticiasPorCategoria("todas");
+    })
+    .catch((error) => console.error("Error al cargar noticias:", error));
 });
 
-function cargarCategoria(cat) {
-  fetch(`data/${cat}.json`)
-    .then((res) => res.json())
-    .then((noticias) => mostrarNoticias(noticias, cat))
-    .catch((err) => {
-      console.error("Error al cargar categoría:", err);
-      document.getElementById("noticias").innerHTML = `<p>No se pudieron cargar noticias de ${cat}.</p>`;
-    });
+function filtrarCategoria(categoriaSeleccionada) {
+  mostrarNoticiasPorCategoria(categoriaSeleccionada);
 }
 
-function mostrarNoticias(noticias, categoria) {
+function mostrarNoticiasPorCategoria(categoriaSeleccionada) {
   const contenedor = document.getElementById("noticias");
   contenedor.innerHTML = "";
 
-  noticias.forEach((noticia) => {
+  const noticiasFiltradas =
+    categoriaSeleccionada === "todas"
+      ? window.todasLasNoticias
+      : window.todasLasNoticias.filter(
+          (n) => (n.categoria || "otras") === categoriaSeleccionada
+        );
+
+  if (noticiasFiltradas.length === 0) {
+    contenedor.innerHTML = `<p>No hay noticias para esta categoría.</p>`;
+    return;
+  }
+
+  noticiasFiltradas.forEach((noticia) => {
     const card = document.createElement("div");
     card.classList.add("noticia");
 
@@ -44,10 +42,6 @@ function mostrarNoticias(noticias, categoria) {
 
     contenedor.appendChild(card);
   });
-}
-
-function capitalizar(texto) {
-  return texto.charAt(0).toUpperCase() + texto.slice(1);
 }
 
 function formatearFecha(fechaISO) {
