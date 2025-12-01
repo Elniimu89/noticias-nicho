@@ -1,9 +1,58 @@
 [
   {
-    "titulo": "Ejemplo de Noticia",
-    "descripcion": "Esta es una noticia de ejemplo generada localmente.",
-    "url": "https://noticiasaldia.com/ejemplo",
-    "imagen": "https://via.placeholder.com/300x200",
+    "titulo": "Google lanza nueva inteligencia artificial",
+    "descripcion": "Google presentó su nuevo modelo de IA con capacidades mejoradas.",
+    "url": "https://news.example.com/google-ia",
+    "imagen": "https://via.placeholder.com/300x200?text=Google+IA",
     "fecha": "2025-11-29T12:00:00Z"
+  },
+  {
+    "titulo": "Tesla revela su auto eléctrico volador",
+    "descripcion": "Elon Musk anunció el nuevo modelo de Tesla con capacidad de vuelo.",
+    "url": "https://news.example.com/tesla-volador",
+    "imagen": "https://via.placeholder.com/300x200?text=Tesla+Fly",
+    "fecha": "2025-11-29T13:00:00Z"
+  },
+  {
+    "titulo": "España aprueba ley de energías renovables",
+    "descripcion": "Una nueva ley impulsa la inversión en energía solar y eólica.",
+    "url": "https://news.example.com/ley-energia",
+    "imagen": "https://via.placeholder.com/300x200?text=España+Renovable",
+    "fecha": "2025-11-29T14:00:00Z"
+  },
+  {
+    "titulo": "Amazon abre centro de reparto autónomo",
+    "descripcion": "Nuevas instalaciones con drones y robots comienzan a operar.",
+    "url": "https://news.example.com/amazon-drones",
+    "imagen": "https://via.placeholder.com/300x200?text=Amazon+Drones",
+    "fecha": "2025-11-29T15:00:00Z"
+  },
+  {
+    "titulo": "Meta lanza su nuevo metaverso educativo",
+    "descripcion": "Zuckerberg anuncia plataformas para aprendizaje en realidad virtual.",
+    "url": "https://news.example.com/meta-edu",
+    "imagen": "https://via.placeholder.com/300x200?text=Meta+Edu",
+    "fecha": "2025-11-29T16:00:00Z"
+  },
+  {
+    "titulo": "El cambio climático acelera en 2025",
+    "descripcion": "Nuevos datos muestran temperaturas récord en todo el mundo.",
+    "url": "https://news.example.com/clima-2025",
+    "imagen": "https://via.placeholder.com/300x200?text=Clima+2025",
+    "fecha": "2025-11-29T17:00:00Z"
+  },
+  {
+    "titulo": "Bitcoin supera los $100,000",
+    "descripcion": "La criptomoneda alcanza su máximo histórico por nueva regulación.",
+    "url": "https://news.example.com/bitcoin100k",
+    "imagen": "https://via.placeholder.com/300x200?text=BTC+100K",
+    "fecha": "2025-11-29T18:00:00Z"
+  },
+  {
+    "titulo": "SpaceX prepara misión tripulada a Marte",
+    "descripcion": "SpaceX revela detalles del primer viaje humano al planeta rojo.",
+    "url": "https://news.example.com/spacex-marte",
+    "imagen": "https://via.placeholder.com/300x200?text=SpaceX+Marte",
+    "fecha": "2025-11-29T19:00:00Z"
   }
 ]
